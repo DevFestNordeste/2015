@@ -1,0 +1,40 @@
+-
+  id: 1
+  name: "Nelson"
+  surname: "Glauber"
+  company: "C.E.S.A.R"
+  title: "Engenheiro de Sistemas"
+  bio: ""
+  thumbnailUrl: "NelsonGlauber.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+NelsonGlauber"}
+    - {name: "twitter", link: "https://twitter.com/nglauber"}
+-
+  id: 2
+  name: "Wilson"
+  surname: "Mendes"
+  company: "ThoughtWorks"
+  bio: ""
+  thumbnailUrl: "WilsonMendes.jpeg"
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106614160477906803303"}
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+-
+  id: 3
+  name: "Alê"
+  surname: "Borba"
+  company: "Google"
+  bio: ""
+  thumbnailUrl: "AleBorba.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Community Manager", url: "https://developers.google.com/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106614160477906803303"}
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
