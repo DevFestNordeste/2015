@@ -15,11 +15,11 @@
 							{% endif %}
 							{% if ticketsOffer.disabled != true %}
 							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
-								<span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span>
+								<span class="ticket-additional-info">Antes de {{ ticketValidTo[0] | date: "%-d/%m/%Y"}} {% if ticketsOffer.ticketsNumber.lenght > 1 %} ou {{ ticketsOffer.ticketsNumber }} tickets{% endif %}</span>
 							{% endif %}
 						</div>
 						<div class="col-sm-3 col-xs-12">
-							<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
+							<p class="price">{{ ticketsOffer.priceCurrency }} {{ ticketsOffer.price }}</p>
 						</div>
 						<div class="col-sm-3 col-xs-12">
 							{% if ticketsOffer.soldOut == true %}

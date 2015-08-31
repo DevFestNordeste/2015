@@ -116,7 +116,7 @@ venueFeatures: ["Polos com palestras e experimentos", "Atrações culturais", "L
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: ""
-twitterHashTag: "devfestne"
+twitterHashTag: "devfestne15"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&user=devfestne&cache_interval=8000"
 
 # Partners Block
@@ -132,19 +132,39 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Os ingressos dão direito ao acesso a todas as trilhas, palestras e coffe-breaks no evento. Estadia <strong>não está</strong> inclusa no preço da ingressos."
 ticketsOffers:
  -
   name: "Super Early Bird"
   price: "60"
   priceCurrency: "R$"
-#  ticketsNumber: "200"
+  ticketsNumber: "200"
   ribbon: "-25%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.even.tc/gdg-devfest-nordeste-2015"
   buyButtonText: "Compre agora!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2015-08-25T10:00"
+  validThrough: "2015-09-27T23:59"
+ -
+  name: "Early Bird"
+  price: "80"
+  priceCurrency: "R$"
+  ticketsNumber: "0"
+  buyButtonLink: "http://www.even.tc/gdg-devfest-nordeste-2015"
+  buyButtonText: "Compre agora!"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-08-28T00:00"
+  validThrough: "2015-10-10T23:59"
+ -
+  name: "Late Bird"
+  price: "105"
+  priceCurrency: "R$"
+  ticketsNumber: "0"
+  buyButtonLink: "http://www.even.tc/gdg-devfest-nordeste-2015"
+  buyButtonText: "Compre agora!"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-10-10T00:00"
+  validThrough: "2015-10-17T05:59"
 
 # Footer
 socialLinks:
