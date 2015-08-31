@@ -180,12 +180,12 @@ teamBlockTitle: "About us"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
-findWayTitle: "Faça o caminho"
+findWayTitle: ""
 findWayDistance: "Distância"
 findWayDriving: "Carro"
 findWayWalking: "A pé"
 findWayBicycling: "Bicicleta"
-findWayTransit: "Transporte Público"
+findWayTransit: "Ônibus e Metrô"
 findWayFindFlight: "Procure um Voo"
 logisticsMapCenterCoordinates: "49.840696, 24.028754"
 logisticsMapMobileCenterCoordinates: "49.840696, 24.028754"
@@ -193,22 +193,17 @@ logisticsMapAutoDirections: true
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "O mundo começa em Recife"
+directionDetailsTitle: "Eu vi o mundo... Ele começava no Recife"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Aeroporto", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Ônibus e Metrô", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Táxis", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Hotéis e Hostels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   - {title: "Taxi", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
    -
     title: "Registration"
     links:
