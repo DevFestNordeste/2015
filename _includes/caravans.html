@@ -22,7 +22,9 @@
 			{% assign animationDelay = animationDelay | plus:250 %}
             {% endfor %}
       </div>
-      <span class="tickets-info">{{ site.caravansInfo }}</span>
+      <p class="tickets-info">{{ site.caravansInfo }}</p>
+
+			<a href="{{ site.caravansUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.caravansButton }}</a>
 		</div>
 	</div>
 </section>

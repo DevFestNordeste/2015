@@ -132,7 +132,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Os ingressos dão direito ao acesso a todas as trilhas, palestras e coffe-breaks no evento. Estadia <strong>não está</strong> inclusa no preço da ingressos."
+ticketsInfo: "Os ingressos dão direito ao acesso a todas as trilhas, palestras e coffe-breaks no evento. Estadia <strong>não está</strong> inclusa no preço da ingressos. Confira a seção de <a href='/logistics/'>logística</a> para saber onde se hospedar (com desconto!) em Recife."
 ticketsOffers:
  -
   name: "Super Early Bird"
@@ -217,15 +217,14 @@ logisticsMapAutoDirections: true
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Eu vi o mundo... Ele começava no Recife"
 directionDetailsCards:
- - {title: "Aeroporto", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Ônibus e Metrô", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Táxis", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
- - {title: "Hotéis e Hostels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Aeroporto", information: 'O Aeroporto Internacional Guararapes-Gilberto Freyre está localizado a 20 minutos do Recife Antigo. É fácil ir e voltar para ele usando metrô, ônibus ou táxi. Mais informações no <a href="http://www.aeroportorecife.net/">site do aeroporto</a>.'}
+ - {title: "Ônibus e Metrô", information: 'O Google Transit está disponível em Recife. Então, você consegue usa-lo dentro do Google Maps. Você também pode baixar o <a href="https://play.google.com/store/apps/details?id=br.com.cittabus">CittaBus</a>, <a href="https://play.google.com/store/apps/details?id=me.luish.busrec">Busão Recife</a> ou <a href="https://play.google.com/store/apps/details?id=com.dom925.trainsity.recife">Trainsity Recife Metro</a> para se localizar melhor. Todos gratuitos para Android.'}
+# - {title: "Táxis", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Hotéis e Hostels", information: 'Recife tem excelentes hotéis e hostels disponíveis. Veja algumas opções abaixo para ficar durante o fim de semana'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Hostels"
   subCards:
-   - {title: "Taxi", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
    -
     title: "Registration"
     links:
@@ -243,7 +242,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
@@ -282,8 +281,10 @@ hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.840696, 24.028754"
 
 # Caravan Block
-caravanTitle: "Caravanas"
+caravanTitle: "Caravanas Oficiais"
 caravanFrom: "De"
 caravanResponsible: "Responsável"
-caravanLinkTitle: "Participe"
+caravanLinkTitle: "Participar da Caravana"
 caravansInfo: "As caravanas são organizadas por membros do GDG de outros estados."
+caravansUrl: "http://google.com.br"
+caravansButton: "Organize uma caravana!"
