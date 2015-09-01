@@ -2975,7 +2975,7 @@ nav li a.current, nav li a:hover {
 }
 .partners .list-inline li {
   width: 16%;
-  max-width: 180px;
+  max-width: 520px;
   margin: 13px 7px
 }
 .partners img {

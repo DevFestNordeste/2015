@@ -15,7 +15,7 @@
 							{% endif %}
 							{% if ticketsOffer.disabled != true %}
 							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
-								<span class="ticket-additional-info">Antes de {{ ticketValidTo[0] | date: "%-d/%m/%Y"}} {% if ticketsOffer.ticketsNumber.lenght > 1 %} ou {{ ticketsOffer.ticketsNumber }} tickets{% endif %}</span>
+								<span class="ticket-additional-info">Antes de {{ ticketValidTo[0] | date: "%-d/%m/%Y"}} {% if ticketsOffer.ticketsNumber == '200' %} ou {{ ticketsOffer.ticketsNumber }} ingressos{% endif %}</span>
 							{% endif %}
 						</div>
 						<div class="col-sm-3 col-xs-12">
@@ -30,7 +30,7 @@
 							</span>
 							{% else %}
 		           			{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-							<p class="ticket-fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p>
+							<span class="button disabled fallback">Ingressos começarão a ser vendidos em {{ ticketValidFrom[0] | date: "%-d/%m/%Y"}}</span>
 							{% endif %}
 						</div>
 					</div>

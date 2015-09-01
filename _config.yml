@@ -148,6 +148,7 @@ ticketsOffers:
  -
   name: "Early Bird"
   price: "80"
+  disabled: true
   priceCurrency: "R$"
   ticketsNumber: "0"
   buyButtonLink: "http://www.even.tc/gdg-devfest-nordeste-2015"
@@ -158,6 +159,7 @@ ticketsOffers:
  -
   name: "Late Bird"
   price: "105"
+  disabled: true
   priceCurrency: "R$"
   ticketsNumber: "0"
   buyButtonLink: "http://www.even.tc/gdg-devfest-nordeste-2015"

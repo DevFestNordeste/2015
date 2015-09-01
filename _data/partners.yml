@@ -10,3 +10,7 @@
   group: "Honeycomb"
   elements:
     - {name: "Eventick", description: "Vendedor oficial de Ingressos", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "eventick.png", width: "220px"}
+-
+  group: "Estadias Oficiais"
+  elements:
+    - {name: "Piratas da Praia", description: "Hostel Piratas da Praia", link: "http://www.piratasdapraia.com/", imageUrl: "hostel-piratas.png", width: "120px"}
