@@ -5191,3 +5191,19 @@ nav li a.current, nav li a:hover {
 .top-section-hero .places .ponte-boavista {
   background: #985022
 }
+
+/*new venue css*/
+.polos-text {
+    padding: 30px 20px;
+    color: #ABABAB;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    background: #FCFCFC;
+    text-align: center;
+}
+
+.polos-text img {
+  width: 50%;
+  max-width: 140px;
+  margin-bottom: 15px;
+}

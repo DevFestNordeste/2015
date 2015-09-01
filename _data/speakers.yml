@@ -16,8 +16,8 @@
   id: 2
   name: "Wilson"
   surname: "Mendes"
-  company: "ThoughtWorks"
-  bio: ""
+  company: "GDE Angular"
+  bio: "Google Developer Expert (GDE) AngularJS e organizador do GDG Salvador. Músico e designer nas horas vagas."
   thumbnailUrl: "WilsonMendes.jpeg"
   rockstar: true
   ribbon:

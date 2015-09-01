@@ -42,8 +42,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Evento"}
-# - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programação"}
+ - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logística"}
@@ -105,7 +105,7 @@ mapCenterCoordinates: "-8.063149, -34.874414"
 mapMobileCenterCoordinates: "-8.063149, -34.871311"
 
 # Venue Block
-venueBlockTitle: "O Lugar"
+venueBlockTitle: "O[s] Lugar[es]"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -190,9 +190,9 @@ footerBlocks:
    - {permalink: "http://pt-br.confcodeofconduct.com", text: "Código de Conduta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Blog"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestne"
 
 # Speakers List Block
 showSessions: true
@@ -286,5 +286,5 @@ caravanFrom: "De"
 caravanResponsible: "Responsável"
 caravanLinkTitle: "Participar da Caravana"
 caravansInfo: "As caravanas são organizadas por membros do GDG de outros estados."
-caravansUrl: "http://google.com.br"
+caravansUrl: "https://docs.google.com/forms/d/1OLVGqJuR2CXMyeupaIUDq8ZJCqMdSWRp37x6QV_dNaA/viewform"
 caravansButton: "Organize uma caravana!"
