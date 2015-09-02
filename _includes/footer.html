@@ -1,8 +1,16 @@
 <!-- Begin Footer -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=484542028233422";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <footer id="footer" class="footer">
 	<div class="row">
 		<div class="pull-left col-md-6 col-xs-6">
-			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{ site.url }}"></div>
+			<div class="fb-share-button" data-href="http://devfestne.com.br" data-layout="button_count"></div>
 		</div>
 		<div class="logo logo-footer logo-gray pull-right"></div>
 	</div>
