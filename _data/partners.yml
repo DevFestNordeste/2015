@@ -18,7 +18,7 @@
 -
   group: "Apoio"
   elements:
-    - {name: "Tampa Works", description: "Vendedor oficial de Ingressos", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "tampa-works.svg", width: "190px"}
+    - {name: "Tampa Works", description: "Vendedor oficial de Ingressos", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "tampa.png", width: "190px"}
     - {name: "Casa do Código", description: "Vendedor oficial de Ingressos", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "casadocodigo.svg", width: "190px"}
 -
   group: "Estadias Oficiais (até 25% de desconto)"
