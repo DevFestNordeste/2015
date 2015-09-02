@@ -1,6 +1,14 @@
 -
   id: 0
+  title: "Cajuvalley no DevFest"
   from: "Aracaju, SE"
   responsibleName: "Erick Mendonça"
   responsibleUrl: "http://google.com/+ErickMendonca"
   linkUrl: "https://goo.gl/forms/ZNKr4rEjyC"
+-
+  id: 1
+  title: "Fasete rumo ao GoogleDev"
+  from: "Paulo Afonso, BA"
+  responsibleName: "Ricardo Azevedo Porto"
+  responsibleUrl: ""
+  linkUrl: "mailto:ric.porto@gmail.com"

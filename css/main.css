@@ -5207,3 +5207,14 @@ nav li a.current, nav li a:hover {
   max-width: 140px;
   margin-bottom: 15px;
 }
+
+/*caravan*/
+.caravan-text {
+  padding-left: 10px;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.caravan-text-latest {
+  margin-bottom: 10px;
+}
