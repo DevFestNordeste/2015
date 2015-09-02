@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/Media_Kit_DevFest_NE_15.pdf"
 
 # Navigation
 navigationLinks:
@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logística"}
+ - {permalink: "/#caravans", text: "Caravanas"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://www.even.tc/gdg-devfest-nordeste-2015", text: "Inscreva-se!"}
