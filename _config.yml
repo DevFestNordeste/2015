@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "17 de Outubro, 2015"
+eventDate: "Recife Antigo - 17 de Outubro, 2015"
 typeoutTextValues: '"", "Nordeste", "Recife", "Aracaju", "Maceió", "Fortaleza", "Hellcife"'
 typeoutFallback: "Nordeste"
 heroButtons:
