@@ -1,28 +1,28 @@
 -
   group: "O Doceiro"
   elements:
-    - {name: "Google", description: "Google Developers", link: "https://www.google.com.br/", imageUrl: "google-developers.png", width: "520px"}
+    - {name: "Google", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "google-developers.png", width: "520px"}
 -
   group: "Jelly Bean"
   elements:
-    - {name: "Intel", description: "Intel Software", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "intelsoftware.png", width: "280px"}
+    - {name: "Intel", description: "Intel Software", link: "https://software.intel.com/pt-br/", imageUrl: "intelsoftware.png", width: "280px"}
 -
   group: "Ice Cream Sandwitch"
   elements:
-    - {name: "Nós Coworking", description: "Nós Coworking", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "nos-coworking.png", width: "220px"}
-    - {name: "CESAR", description: "CESAR", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "cesar.jpg", width: "220px"}
+    - {name: "Nós Coworking", description: "Nós Coworking", link: "http://noscoworking.com.br", imageUrl: "nos-coworking.png", width: "220px"}
+    - {name: "CESAR", description: "CESAR", link: "http://www.cesar.org.br/", imageUrl: "cesar.jpg", width: "220px"}
 -
   group: "Honeycomb"
   elements:
-    - {name: "Eventick", description: "Vendedor oficial de Ingressos", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "eventick.png", width: "200px"}
+    - {name: "Eventick", description: "Vendedor oficial de Ingressos", link: "https://www.eventick.com.br/", imageUrl: "eventick.png", width: "200px"}
 -
   group: "Apoio"
   elements:
-    - {name: "Tampa Works", description: "Vendedor oficial de Ingressos", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "tampa.png", width: "190px"}
-    - {name: "Casa do Código", description: "Vendedor oficial de Ingressos", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "casadocodigo.svg", width: "190px"}
+    - {name: "Tampa Works", description: "Tampa Works", link: "https://tampa.works", imageUrl: "tampa.png", width: "190px"}
+    - {name: "Casa do Código", description: "Casa do Código", link: "http://www.casadocodigo.com.br/", imageUrl: "casadocodigo.svg", width: "190px"}
 -
   group: "Estadias Oficiais (até 25% de desconto)"
   elements:
     - {name: "Piratas da Praia", description: "Hostel Piratas da Praia", link: "http://www.piratasdapraia.com/", imageUrl: "hostel-piratas.png", width: "120px"}
-    - {name: "Arrecifes Hostel", description: "Arrecifes Hostel", link: "http://www.piratasdapraia.com/", imageUrl: "hostel-arrecifes.png", width: "120px"}
-    - {name: "Estaçao Mangue", description: "Estaçao Mangue", link: "http://www.piratasdapraia.com/", imageUrl: "hostel-mangue.png", width: "120px"}
+    - {name: "Arrecifes Hostel", description: "Arrecifes Hostel", link: "http://www.arrecifeshostel.com.br/", imageUrl: "hostel-arrecifes.png", width: "120px"}
+    - {name: "Estação do Mangue", description: "Estação do Mangue", link: "http://www.estacaodomangue.com.br/", imageUrl: "hostel-mangue.png", width: "120px"}
