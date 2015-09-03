@@ -7,7 +7,7 @@
   elements:
     - {name: "Intel", description: "Intel Software", link: "https://software.intel.com/pt-br/", imageUrl: "intelsoftware.png", width: "280px"}
 -
-  group: "Ice Cream Sandwitch"
+  group: "Ice Cream Sandwich"
   elements:
     - {name: "Nós Coworking", description: "Nós Coworking", link: "http://noscoworking.com.br", imageUrl: "nos-coworking.png", width: "220px"}
     - {name: "CESAR", description: "CESAR", link: "http://www.cesar.org.br/", imageUrl: "cesar.jpg", width: "220px"}
