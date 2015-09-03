@@ -5218,3 +5218,30 @@ nav li a.current, nav li a:hover {
 .caravan-text-latest {
   margin-bottom: 10px;
 }
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+.spinner {
+    position: absolute;
+    top: -webkit-calc(50% - 33px);
+    top: calc(50% - 33px);
+    left: -webkit-calc(50% - 33px);
+    left: calc(50% - 33px);
+    -webkit-animation: rotator 3s linear infinite;
+    animation: rotator 3s linear infinite;
+}
+
+.path {
+    stroke-dasharray: 125;
+    stroke-dashoffset: 0;
+    -webkit-transform-origin: center;
+    -ms-transform-origin: center;
+    transform-origin: center;
+    -webkit-animation: dash 6s ease-in-out infinite,colors 6s ease-in infinite;
+    animation: dash 6s ease-in-out infinite,colors 6s ease-in infinite;
+    stroke: #4285F4;
+}
+
+@-webkit-keyframes rotator{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes rotator{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.path{stroke-dasharray:125;stroke-dashoffset:0;-webkit-transform-origin:center;-ms-transform-origin:center;transform-origin:center;-webkit-animation:dash 6s ease-in-out infinite,colors 6s ease-in infinite;animation:dash 6s ease-in-out infinite,colors 6s ease-in infinite;stroke:#4285F4}@-webkit-keyframes colors{0%{stroke:#4285F4}20%{stroke:#4285F4}25%{stroke:#DE3E35}45%{stroke:#DE3E35}50%{stroke:#F7C223}70%{stroke:#F7C223}75%{stroke:#1B9A59}95%{stroke:#1B9A59}100%{stroke:#4285F4}}@keyframes colors{0%{stroke:#4285F4}20%{stroke:#4285F4}25%{stroke:#DE3E35}45%{stroke:#DE3E35}50%{stroke:#F7C223}70%{stroke:#F7C223}75%{stroke:#1B9A59}95%{stroke:#1B9A59}100%{stroke:#4285F4}}@-webkit-keyframes dash{0%{stroke-dashoffset:125}12.5%{stroke-dashoffset:31.25;-webkit-transform:rotate(0deg);transform:rotate(0deg)}25%{stroke-dashoffset:125;-webkit-transform:rotate(270deg);transform:rotate(270deg)}37.5%{stroke-dashoffset:31.25;-webkit-transform:rotate(270deg);transform:rotate(270deg)}50%{stroke-dashoffset:125;-webkit-transform:rotate(540deg);transform:rotate(540deg)}62.5%{stroke-dashoffset:31.25;-webkit-transform:rotate(540deg);transform:rotate(540deg)}75%{stroke-dashoffset:125;-webkit-transform:rotate(810deg);transform:rotate(810deg)}87.5%{stroke-dashoffset:31.25;-webkit-transform:rotate(810deg);transform:rotate(810deg)}100%{stroke-dashoffset:125;-webkit-transform:rotate(1080deg);transform:rotate(1080deg)}}@keyframes dash{0%{stroke-dashoffset:125}12.5%{stroke-dashoffset:31.25;-webkit-transform:rotate(0deg);transform:rotate(0deg)}25%{stroke-dashoffset:125;-webkit-transform:rotate(270deg);transform:rotate(270deg)}37.5%{stroke-dashoffset:31.25;-webkit-transform:rotate(270deg);transform:rotate(270deg)}50%{stroke-dashoffset:125;-webkit-transform:rotate(540deg);transform:rotate(540deg)}62.5%{stroke-dashoffset:31.25;-webkit-transform:rotate(540deg);transform:rotate(540deg)}75%{stroke-dashoffset:125;-webkit-transform:rotate(810deg);transform:rotate(810deg)}87.5%{stroke-dashoffset:31.25;-webkit-transform:rotate(810deg);transform:rotate(810deg)}100%{stroke-dashoffset:125;-webkit-transform:rotate(1080deg);transform:rotate(1080deg)}}
