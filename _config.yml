@@ -134,7 +134,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Os ingressos dão direito ao acesso a todas as trilhas, palestras e coffe-breaks no evento. Estadia <strong>não está</strong> inclusa no preço da ingressos. Confira a seção de <a href='/logistics/'>logística</a> para saber onde se hospedar (com desconto!) em Recife."
+ticketsInfo: "Os ingressos dão direito ao acesso a todas as trilhas, palestras e coffe-breaks no evento. Estadia <strong>não está</strong> inclusa no preço da ingressos. Confira nosso <a href='/logistics/'>guia da cidade</a> para saber onde se hospedar (com desconto!) em Recife."
 ticketsOffers:
  -
   name: "Super Early Bird"
@@ -226,7 +226,7 @@ directionDetailsCards:
  - {title: "Ônibus e Metrô", information: 'O Google Transit está disponível em Recife. Então, você consegue usa-lo dentro do Google Maps. Você também pode baixar o <a href="https://play.google.com/store/apps/details?id=br.com.cittabus">CittaBus</a>, <a href="https://play.google.com/store/apps/details?id=me.luish.busrec">Busão Recife</a> ou <a href="https://play.google.com/store/apps/details?id=com.dom925.trainsity.recife">Trainsity Recife Metro</a> para se localizar melhor. Todos gratuitos para Android.'}
 # - {title: "Táxis", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
  - {title: "Hospedagem", information: 'Recife tem excelentes hotéis e hostels disponíveis. Veja algumas opções abaixo para ficar durante o fim de semana. Consiga até 25% de desconto nas nossas estadias oficiais. <ul class="list-with-description hotels"><li><a href="http://www.piratasdapraia.com/" title="Piratas da Praia" target="_blank">Piratas da Praia - 25%</a></li><li><a href="http://www.arrecifeshostel.com.br/" title="Arrecifes Hostel" target="_blank">Arrecifes Hostel - 15-25%</a></li><li><a href="http://www.estacaodomangue.com.br/" title="Estação do Mangue" target="_blank">Estação do Mangue - 25%</a></li></ul>'}
- - {title: "Restaurantes", information: 'O Recife Antigo é um lugar excelente para provar comidas típicas locais e fazer aquele lanche esperto. Em breve atualizaremos com as melhores opções de restaurantes nas proximidades dos polos.'}
+ - {title: "Restaurantes", information: 'O Recife Antigo é um lugar excelente para provar comidas típicas locais e fazer aquele lanche esperto. Em breve atualizaremos com as melhores opções de restaurantes nas proximidades dos polos. <ul class="list-with-description hotels"><li><a href="https://www.facebook.com/armazensdoporto" title="Armazéns do Porto" target="_blank">Armazéns do Porto - $$$</a></li></ul>'}
 #directionDetailsWideCards:
 # -
 #  title: "Hostels"
