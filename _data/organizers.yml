@@ -6,5 +6,5 @@
   group: "Co-organizadores"
   elements:
     - {name: "GDG Aracaju", description: "GDG Aracaju", link: "http://gdgaracaju.com.br", imageUrl: "gdg-aracaju.svg"}
-    - {name: "GDG Fortaleza", description: "GDG Fortaleza", link: "http://gdgmaceio.rocks", imageUrl: "gdg-fortaleza.svg"}
-    - {name: "GDG Maceió", description: "GDG Maceió", link: "http://gdgfortaleza.org", imageUrl: "gdg-maceio.svg"}
+    - {name: "GDG Fortaleza", description: "GDG Fortaleza", link: "http://gdgfortaleza.org", imageUrl: "gdg-fortaleza.svg"}
+    - {name: "GDG Maceió", description: "GDG Maceió", link: "http://gdgmaceio.rocks", imageUrl: "gdg-maceio.svg"}
