@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "DevFest Nordeste"
+title: "GDG DevFest Nordeste"
 email: "ne@devfest.com.br"
 description: "DevFest Nordeste"
 baseurl: ""
@@ -42,12 +42,13 @@ c4sponsorsUrl: "/assets/Media_Kit_DevFest_NE_15.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Evento"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logística"}
  - {permalink: "/#caravans", text: "Caravanas"}
+ - {permalink: "http://2014.devfestne.com.br", text: "2014"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://www.even.tc/gdg-devfest-nordeste-2015", text: "Inscreva-se!"}
