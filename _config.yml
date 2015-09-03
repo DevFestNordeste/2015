@@ -140,8 +140,8 @@ ticketsOffers:
   name: "Super Early Bird"
   price: "60"
   priceCurrency: "R$"
-  ticketsNumber: "200"
-  ribbon: "-25%"
+  ticketsNumber: "150"
+#  ribbon: "-25%"
   buyButtonLink: "http://www.even.tc/gdg-devfest-nordeste-2015"
   buyButtonText: "Compre agora!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
