@@ -18,12 +18,11 @@
   surname: "Mendes"
   company: "GDE Angular"
   bio: "Google Developer Expert (GDE) AngularJS e organizador do GDG Salvador. Músico e designer nas horas vagas."
-  thumbnailUrl: "WilsonMendes.jpeg"
+  thumbnailUrl: "WilsonMendes.jpg"
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/106614160477906803303"}
     - {name: "twitter", link: "https://twitter.com/willmendesneto"}
 -
   id: 3
@@ -36,7 +35,6 @@
   ribbon:
     - {abbr: "Google", title: "Community Manager", url: "https://developers.google.com/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/106614160477906803303"}
     - {name: "twitter", link: "https://twitter.com/willmendesneto"}
 -
   id: 4
@@ -47,5 +45,48 @@
   thumbnailUrl: "MarcosOAP.jpg"
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/106614160477906803303"}
     - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+-
+  id: 5
+  name: "Ítalo"
+  surname: "Waxman"
+  company: "Tecsinapse"
+  bio: "Graduado em Design Gráfico, especialista em interfaces web e contribuidor Open-Source nas horas vagas, descobriu durante sua jornada o poder do front-end e de como usá-lo em prol de melhores expriências . Atualmente trabalha como Deisigner/Front-ender na Tecsinapse, é o Idealizador/Organizador do Rock and Code e faz parte de projetos como Custom Elements, Js Rocks e Braziljs Conf. Verdadeiro amante dos pixels, preza pelos mínimos detalhes, acabamento impecável nos seus trabalhos e por isso acredita que esse sentimento possa ser compartilhado em prol de uma web melhor."
+  thumbnailUrl: "ItaloWaxman.jpg"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/italowaxman"}
+-
+  id: 6
+  name: "Eduardo"
+  surname: "Carrara"
+  company: "Intel"
+  bio: "Formado em Engenharia da Computação, atua na área de desenvolvimento de software desde 2006, teve a oportunidade de utilizar diversas tecnologias nos ramos automobilístico, financeiros e de eletrônicos para consumo. Atualmente é evangelista técnico  na Intel Software e colabora principalmente em projetos na área de educação e mobilidade com Android."
+  thumbnailUrl: "EduardoCarrara.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "Intel", title: "Technical Evangelist", url: "https://developers.google.com/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/DuCarrara"}
+-
+  id: 7
+  name: "Ubiratan"
+  surname: "Soares"
+  company: "Globalcode"
+  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo. Trabalha com mobilidade há mais de 5 anos, trabalha hoje com desenvolvimento para Android (mas não fica some nele!) e tem participação direta em alguns dos maiores aplicativos nacionais hoje online. Também é instrutor da Globalcode, co-organizador do GDG São Paulo, palestrante, pai de um menino, filósofo wanna-be. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa Intel Software Innovator, também para Android."
+  thumbnailUrl: "UbiratanSoares.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
+-
+  id: 8
+  name: "Em Breve"
+  surname: "mais palestrantes!"
+  company: "GDG Recife"
+  bio: ""
+  thumbnailUrl: "GDG.png"
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/"}
