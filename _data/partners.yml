@@ -26,3 +26,4 @@
     - {name: "Piratas da Praia", description: "Hostel Piratas da Praia", link: "http://www.piratasdapraia.com/", imageUrl: "hostel-piratas.png", width: "120px"}
     - {name: "Arrecifes Hostel", description: "Arrecifes Hostel", link: "http://www.arrecifeshostel.com.br/", imageUrl: "hostel-arrecifes.png", width: "120px"}
     - {name: "Estação do Mangue", description: "Estação do Mangue", link: "http://www.estacaodomangue.com.br/", imageUrl: "hostel-mangue.png", width: "120px"}
+    - {name: "Ibis Aeroporto", description: "Ibis Aeroporto", link: "http://www.accorhotels.com/pt-br/hotel-8842-ibis-recife-aeroporto/index.shtml", imageUrl: "hostel-ibis-aeroporto.png", width: "120px"}
