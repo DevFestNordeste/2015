@@ -38,3 +38,14 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/106614160477906803303"}
     - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+-
+  id: 4
+  name: "Marcos"
+  surname: "OAP"
+  company: "AnnuitWalk"
+  bio: ""
+  thumbnailUrl: "MarcosOAP.jpg"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106614160477906803303"}
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
