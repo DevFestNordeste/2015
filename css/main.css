@@ -5176,13 +5176,13 @@ nav li a.current, nav li a:hover {
   opacity: 1
 }
 .top-section-hero .places .malakoff {
-  opacity: 1;
   background: #985022
 }
 .top-section-hero .places .torre-cristal {
   background: #8F1F1D
 }
 .top-section-hero .places .casario {
+  opacity: 1;
   background: #124D9C
 }
 .top-section-hero .places .carne {
