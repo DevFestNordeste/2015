@@ -46,7 +46,7 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logística"}
+ - {permalink: "/logistics/", text: "Guia da Cidade"}
  - {permalink: "/#caravans", text: "Caravanas"}
  - {permalink: "http://2014.devfestne.com.br", text: "2014"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
