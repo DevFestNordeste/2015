@@ -90,3 +90,16 @@
   rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/"}
+-
+  id: 9
+  name: "Italo"
+  surname: "Marcel"
+  company: "Getinfo"
+  title: "Coordenador de TI"
+  bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos  durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
+  thumbnailUrl: "ItaloMarcel.jpg"
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ItaloMarcel"}
+    - {name: "twitter", link: "https://twitter.com/italo_MSS"}
+    - {name: "facebook", link: "https://www.facebook.com/italo.marcel"}
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/italo-marcel/92/690/2a4/"}
