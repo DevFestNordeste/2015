@@ -82,16 +82,6 @@
     - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
 -
   id: 8
-  name: "Em Breve"
-  surname: "mais palestrantes!"
-  company: "GDG Recife"
-  bio: ""
-  thumbnailUrl: "GDG.png"
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/"}
--
-  id: 9
   name: "Italo"
   surname: "Marcel"
   company: "Getinfo"
@@ -103,3 +93,13 @@
     - {name: "twitter", link: "https://twitter.com/italo_MSS"}
     - {name: "facebook", link: "https://www.facebook.com/italo.marcel"}
     - {name: "linkedin", link: "https://br.linkedin.com/pub/italo-marcel/92/690/2a4/"}
+-
+  id: 9
+  name: "Em Breve"
+  surname: "mais palestrantes!"
+  company: "GDG Recife"
+  bio: ""
+  thumbnailUrl: "GDG.png"
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/"}
