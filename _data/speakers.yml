@@ -94,7 +94,18 @@
     - {name: "facebook", link: "https://www.facebook.com/italo.marcel"}
     - {name: "linkedin", link: "https://br.linkedin.com/pub/italo-marcel/92/690/2a4/"}
 -
-  id: 9
+  id: 8
+  name: "Alda"
+  surname: "Rocha"
+  company: "GDG São Paulo"
+  title: "Designer, front-end e Instrutora de UX"
+  bio: ""
+  thumbnailUrl: "ItaloMarcel.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/mjcoffeeholick"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=108260306"}
+-
+  id: 10
   name: "Em Breve"
   surname: "mais palestrantes!"
   company: "GDG Recife"
