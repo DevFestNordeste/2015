@@ -5249,3 +5249,8 @@ svg:not(:root) {
 .list-with-description.hotels li {
   margin-bottom: 5px;
 }
+
+.tickets-table {
+  border: none;
+  padding: 0;
+}
