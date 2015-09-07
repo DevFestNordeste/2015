@@ -5251,6 +5251,6 @@ svg:not(:root) {
 }
 
 .tickets-table {
-  border: none;
-  padding: 0;
+  border: none !important;
+  padding: 0 !important;
 }
