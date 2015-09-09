@@ -1,7 +1,7 @@
 -
   group: "O Doceiro"
   elements:
-    - {name: "Google", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "google-developers.png", width: "520px"}
+    - {name: "Google", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "developers.svg", width: "520px"}
 -
   group: "Jelly Bean"
   elements:
