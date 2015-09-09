@@ -5250,7 +5250,7 @@ svg:not(:root) {
   margin-bottom: 5px;
 }
 
-.tickets-table {
+.tickets-noborder {
   border: none !important;
   padding: 0 !important;
 }
