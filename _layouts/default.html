@@ -144,6 +144,13 @@ layout: compress
 
     {% include schema-event.html %}
     <script src="//cdn.optimizely.com/js/3052811966.js"></script>
+    <script src="{{ "/js/upup.min.js" | prepend: site.baseurl }}"></script>
+    <script>
+    UpUp.start({
+      'content-url': 'offline.html',
+      'assets': ['/img/sprites/logo-ne.png']
+    });
+    </script>
 </body>
 
 </html>
