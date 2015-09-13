@@ -146,6 +146,7 @@ layout: compress
     <!--script>if (location.protocol == 'http:') location.href = location.href.replace(/^http:/, 'https:')</script-->
     <script src="{{ "/upup.min.js" | prepend: site.baseurl }}"></script>
     <script>
+    UpUp.debug();
     UpUp.start({
       'content-url': 'offline.html',
       'assets': ['/img/sprites/logo-ne.png']
