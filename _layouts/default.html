@@ -143,6 +143,7 @@ layout: compress
     {% endif %}
 
     {% include schema-event.html %}
+    <script>if (location.protocol == 'http:') location.href = location.href.replace(/^http:/, 'https:')</script>
     <script src="//cdn.optimizely.com/js/3052811966.js"></script>
     <script src="{{ "/js/upup.min.js" | prepend: site.baseurl }}"></script>
     <script>
