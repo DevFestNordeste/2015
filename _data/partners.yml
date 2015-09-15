@@ -3,10 +3,6 @@
   elements:
     - {name: "Google", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "developers-final.png", width: "720px"}
 -
-  group: "Jelly Bean"
-  elements:
-    - {name: "Intel", description: "Intel Software", link: "https://software.intel.com/pt-br/", imageUrl: "intelsoftware.png", width: "280px"}
--
   group: "Ice Cream Sandwich"
   elements:
     - {name: "Nós Coworking", description: "Nós Coworking", link: "http://noscoworking.com.br", imageUrl: "nos-coworking.png", width: "220px"}
@@ -18,6 +14,7 @@
 -
   group: "Apoio"
   elements:
+    - {name: "Intel", description: "Intel Software", link: "https://software.intel.com/pt-br/", imageUrl: "intelsoftware.png", width: "280px"}
     - {name: "Tampa Works", description: "Tampa Works", link: "https://tampa.works", imageUrl: "tampa.png", width: "190px"}
     - {name: "Casa do Código", description: "Casa do Código", link: "http://www.casadocodigo.com.br/", imageUrl: "casadocodigo.svg", width: "190px"}
 -
