@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook1.png"
 
 # Documents
-c4pUrl: "https://goo.gl/bftC5D"
+# c4pUrl: "https://goo.gl/bftC5D"
 c4sponsorsUrl: "/assets/Media_Kit_DevFest_NE_15.pdf"
 
 # Navigation
@@ -62,7 +62,6 @@ eventDate: "Recife Antigo - 17 de Outubro"
 typeoutTextValues: '"", "Nordeste", "Recife", "Aracaju", "Maceió", "Fortaleza", "Hellcife"'
 typeoutFallback: "Nordeste"
 heroButtons:
- - {link: "https://goo.gl/bftC5D", text: "Seja um palestrante"}
  - {link: "http://eepurl.com/btF53v", text: "Seja um patrocinador"}
  - {permalink: "/#tickets", text: "Faça sua Inscrição"}
 
