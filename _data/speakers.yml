@@ -106,6 +106,18 @@
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=108260306"}
 -
   id: 10
+  name: "Ana Paula"
+  surname: "Gomes"
+  company: "GDG Belo Horizonte"
+  title: "Organizer"
+  bio: "Baiana com muito orgulho, inquieta, curiosa e completamente apaixonada por tecnologia. Atualmente faz o mestrado em Ciência da Computação na Universidade Federal de Minas Gerais. É organizadora do Google Developers Group e do Women Techmakers, ambos de Belo Horizonte. Sua linguagem do coração é o Python. Adora viajar, boas conversas (preferencialmente acompanhada de uma gelada) e pensar em aplicativos que tornem a vida das pessoas melhor. Nas horas vagas é titular do time de futsal Boas Esporte."
+  thumbnailUrl: "AnaPaulaGomes.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/AnaPaulaGomess"}
+    - {name: "github", link: "https://github.com/anapaulagomes"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anapaulagomess/pt"}
+-
+  id: 11
   name: "Em Breve"
   surname: "mais palestrantes!"
   company: "GDG Recife"
