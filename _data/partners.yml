@@ -7,6 +7,7 @@
   elements:
     - {name: "Nós Coworking", description: "Nós Coworking", link: "http://noscoworking.com.br", imageUrl: "nos-coworking.png", width: "220px"}
     - {name: "CESAR", description: "CESAR", link: "http://www.cesar.org.br/", imageUrl: "cesar.jpg", width: "220px"}
+    - {name: "Movile", description: "Movile", link: "https://www.movile.com", imageUrl: "movile.png", width: "220px"}
 -
   group: "Honeycomb"
   elements:
