@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/Media_Kit_DevFest_NE_15.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Evento"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Team"}
