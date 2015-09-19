@@ -75,7 +75,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "500", specialCharacter: "+", info: "participantes", detail: "de todo Nordeste"}
+ - {count: "400", specialCharacter: "+", info: "participantes", detail: "de todo Nordeste"}
  - {count: "18", specialCharacter: "+", info: "palestrantes", detail: "e especialistas de tecnologia"}
  - {count: "20", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
  - {count: "3", specialCharacter: "+", info: "trilhas paralelas", detail: "e muitas novidades"}

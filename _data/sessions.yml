@@ -5,6 +5,22 @@
   service: true
   description: "Não se esqueça do seu ingresso e um documento com foto!"
 -
+  id: 002
+  title: "Almoço"
+  place: "Recife Antigo"
+  service: true
+  description: "Em breve atualizaremos com restaurantes próximos."
+-
+  id: 003
+  title: "Coffe Break"
+  place: "Recife Antigo"
+  service: true
+-
+  id: 301
+  title: "Encerramento"
+  place: "Marco Zero"
+  service: true
+-
   id: 201
   title: "Em Breve"
   subtype: presentation
@@ -13,7 +29,7 @@
   id: 202
   title: "Em Breve"
   subtype: presentation
-  speakers: []
+  speakers: [99]
 -
   id: 203
   title: "JavaScript Wearable"
@@ -38,3 +54,85 @@
   description: "O Jornalismo enfrenta o desafio de se adequar ao mundo digital e isso inclui melhorar a apuração, visualização de dados, envolvimento com seu público, distribuição em tempo real, contar boas histórias e produzir reportagens ainda melhores. O Google News Lab é um conjunto de ferramentas que provê recursos para o Jornalismo na Era Digital. Nesta apresentação iremos mostrar seu potencial e o que está por trás de cases de sucesso como The Guardian e New York Times."
   subtype: presentation
   speakers: [13]
+-
+  id: 207
+  title: "Em Breve"
+  subtype: presentation
+  speakers: [9]
+-
+  id: 208
+  title: "Em Breve"
+  subtype: presentation
+  speakers: [1]
+-
+  id: 209
+  title: "Women Makers construindo um mundo com a participação de mais mulheres em Engenharia, Tecnologia e Exatas."
+  description: "O Women Makers é um projeto que busca emponderar, inspirar e incentivar a participação de mais mulheres para as áreas de Engenharia, Tecnologia e Exatas alinhando o Empreendedorismo. A palestra contará sobre os projetos, os planos de ações e convidará você para fazer parte deste projeto que está crescendo!"
+  subtype: presentation
+  speakers: [12]
+-
+  id: 210
+  title: "Quer desenvolver aplicações mobile nativas, cross-plataforma e ainda usando C#? Pergunte-me como!"
+  description: "Nessa apresentação pretendo mostrar como podemos desenvolver aplicações mobile nativas para iOS, Android e Windows Phone utilizando C# com o Xamarin e compartilhando até 75% do código entre as plataformas. É uma vantagem e tanto no mundo atual onde devemos atender o maior número de devices com o menor custo possível e atendendo à usuários cada vez mais exigentes."
+  subtype: presentation
+  speakers: [17]
+-
+  id: 211
+  title: "House of Data: ciência de dados para desenvolvedores"
+  description: "Hoje produzimos milhões de dados e temos o desafio de extrair informações relevantes desses dados. Nesta palestra serão exibidas técnicas e bibliotecas que o desenvolvedor poderá utilizar para extrair informações úteis e produzir softwares mais inteligentes."
+  subtype: presentation
+  speakers: [3]
+-
+  id: 212
+  title: "Em Breve"
+  subtype: presentation
+  speakers: [2]
+-
+  id: 213
+  title: "Utilizando o Espresso e UIAutomator na Automação de Testes em Apps Android"
+  description: "A qualidade de suas aplicações Android é importante para você e seus usuários? Mesmo assim você acha que o processo de testes e qualidade é repetitivo e tedioso? Com esta palestra você irá entender como utilizar os frameworks Espresso e UIAutomator para automatizar os testes em sua app e tornar o seu dia mais produtivo."
+  subtype: presentation
+  speakers: [7]
+-
+  id: 214
+  title: "Em Breve"
+  subtype: presentation
+  speakers: [99]
+-
+  id: 215
+  title: "Em Breve"
+  subtype: presentation
+  speakers: [14]
+-
+  id: 216
+  title: "Implementando Material Design e componentes especiais no Android"
+  description: "Já ouviu falar em RecyclerView, CardView, Toolbar, Floating Action Button ou ViewHolder? Gostaria de aprender? Nessa apresentação mostrarei como implementar componentes e padrões que além de otimizar o desempenho da sua aplicação, deixará ela alinhada com as guidelines do Material Design."
+  subtype: presentation
+  speakers: [19]
+-
+  id: 217
+  title: "O maravilhoso mundo do Devtools"
+  description: "A cada dia que passa, temos mais e mais ferramentas, tecnologias e frameworks a nossa disposição. Podemos criar e recriar coisas, elevando a qualidade de nossos projetos. Para atender aos requisitos, como qualidade e prazos, é preciso conhecer muito bem as ferramentas que iremos utilizar e extrair o melhor delas. Nesta palestra, iremos conhecer todas as possibilidades e ferramentas que o Chrome possui para nós, desenvolvedores. Seja você iniciante, ou se já possui experiência, o objetivo nesta palestra é um só: conhecer O maravilhoso mundo do Devtools!"
+  subtype: presentation
+  speakers: [22]
+-
+  id: 218
+  title: "Em Breve"
+  subtype: presentation
+  speakers: [99]
+-
+  id: 219
+  title: "Em Breve"
+  subtype: presentation
+  speakers: [99]
+-
+  id: 220
+  title: "I Love Pixels"
+  description: "Quando falamos em front-end, logo pensamos em várias linhas de código. Porém, não podemos esquecer que antes da etapa de codificação, vem a etapa de conversão daquele 'lindo layout'. A ideia da palestra é justamente a de passar dicas e as melhores práticas a serem feitas para alcançarmos a maior fidelidade e executarmos essa tarefa de forma rápida e sem dificuldades."
+  subtype: presentation
+  speakers: [10]
+-
+  id: 221
+  title: "Em Breve"
+  subtype: presentation
+  speakers: [99]
