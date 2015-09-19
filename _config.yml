@@ -51,9 +51,9 @@ navigationLinks:
  - {permalink: "http://2014.devfestne.com.br", text: "2014"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://www.even.tc/gdg-devfest-nordeste-2015", text: "Inscreva-se!"}
+ - {link: "http://www.eventick.com.br/gdg-devfest-nordeste-2015", text: "Inscreva-se!"}
 rightNavigationButtons:
- - {link: "http://www.even.tc/gdg-devfest-nordeste-2015", text: "Inscreva-se!"}
+ - {link: "http://www.eventick.com.br/gdg-devfest-nordeste-2015", text: "Inscreva-se!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,8 +62,7 @@ eventDate: "Recife Antigo - 17 de Outubro"
 typeoutTextValues: '"", "Nordeste", "Recife", "Aracaju", "Maceió", "Fortaleza", "Hellcife"'
 typeoutFallback: "Nordeste"
 heroButtons:
- - {link: "http://eepurl.com/btF53v", text: "Seja um patrocinador"}
- - {permalink: "/#tickets", text: "Faça sua Inscrição"}
+ - {permalink: "http://www.eventick.com.br/gdg-devfest-nordeste-2015", text: "Faça sua Inscrição!"}
 
 # About Block
 aboutTitle: "Sobre o DevFest Nordeste"
