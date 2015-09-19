@@ -1862,9 +1862,8 @@ body, html {
 section {
   position: relative;
   overflow: hidden;
-  min-height: 350px;
   padding-top: 50px;
-  padding-bottom: 60px;
+  padding-bottom: 50px;
   text-align: center
 }
 section h3 {
