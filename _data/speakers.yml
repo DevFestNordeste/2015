@@ -20,7 +20,7 @@
   ribbon:
     - {abbr: "Google", title: "Community Manager", url: "https://developers.google.com/"}
   social:
-    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+    - {name: "twitter", link: "https://twitter.com/ale_borba"}
 -
   id: 3
   name: "Ana Paula"
@@ -128,3 +128,65 @@
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
+-
+  id: 12
+  name: "Lhaís"
+  surname: "Rodrigues"
+  company: "Women Makers"
+  bio: "Criadora e Fundadora do Women Makers, Graduanda em Engenharia da Computação pelo CIn-UFPE, apaixonada por Tecnologia, Inovação e Empreendedorismo, Embaixadora do Technovation Challenge. Já vivenciou experiência acadêmicas em países como EUA e Suíça. Nas horas vagas, gosta de dar palestras ou workshops sobre Tecnologia e Empreendedorismo, fazendo com que as pessoas busquem acreditar nos sonhos delas."
+  thumbnailUrl: "LhaisRodrigues.jpg"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/lhaisrs_"}
+    - {name: "facebook", link: "hhttps://www.facebook.com/lhais.rodrigues.5"}
+-
+  id: 13
+  name: "Lidiane"
+  surname: "Monteiro"
+  bio: "Fundadora do Blog InspirAda na Computação, estagiária de Desenvolvimento Web na FUNDAJ e Bolsista na SBPC-PE. Graduanda em Licenciatura Plena em Computação na UFRPE e Co-coordenadora de Mídias Sociais da Python Brasil. Em 2014, participou da fundação do Women Who Code - Recife e do PyLadies Recife se tornando co-fundadora."
+  thumbnailUrl: "LidianeSouza.jpg"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Lidy_Monteiro"}
+    - {name: "facebook", link: "https://www.facebook.com/lidiannemonteiro"}
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/lidiane-de-souza-monteiro/59/936/47a"}
+    - {name: "github", link: "https://github.com/lidymonteirowm"}
+-
+  id: 17
+  name: "Paulo"
+  surname: "Ortins"
+  bio: "Paulo Ortins, é sócio e desenvolvedor na OnceDev e aluno de mestrado na UFBA, atua com desenvolvimento de software há pouco mais de 5 anos. É apaixonado por linguagens de programação, código bonito, testes e refactoring e mais recentemente por aplicativos para smartphones, relógios e óculos inteligentes e beacons, tudo isso sem deixar de utilizar o C# graças ao Xamarin!"
+  thumbnailUrl: "PauloOrtins.jpg"
+  company: "OnceDev"
+  title: "Fundador"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/pauloortins"}
+    - {name: "facebook", link: "https://www.facebook.com/paulocesar.ortinsbrito"}
+    - {name: "github", link: "https://github.com/pauloortins"}
+-
+  id: 19
+  name: "Thomaz de Freitas"
+  surname: "Barbosa Cortez"
+  bio: "Engenheiro de Software Mobile da Samsung, com experiência em desenvolvimento em Android e iOS, desenvolve material para cursos de Android, e desenvolve aplicações proprietárias nas horas vagas."
+  thumbnailUrl: "Thomaz.jpg"
+  company: "Samsung"
+  title: "Engeheiro de Software Mobile"
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ThomazFreitas"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/ThomazFB"}
+-
+  id: 22
+  name: "Yan Magalhães"
+  surname: "Leite"
+  bio: "Yan Magalhães é desenvolvedor web a pouco mais de 2 anos e graduando em Ciência da Computação. Está sempre acompanhando as novas tecnologias e tendências, participa sempre que pode, dos eventos e encontros promovidos pela comunidade e procura contribuir em projetos Open Source. Acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, podem mudar o dia-a-dia das pessoas."
+  thumbnailUrl: "Yan.jpg"
+  company: "Construsite Brasil"
+  title: "Web Developer"
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/yaanmagalhaes"}
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/yan-magalh%C3%A3es-leite/55/588/767"}
+    - {name: "github", link: "https://github.com/YanMagale"}
+    - {name: "twitter", link: "https://twitter.com/yaanmagale"}
