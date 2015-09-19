@@ -1,5 +1,87 @@
 -
   id: 1
+  name: "Alda"
+  surname: "Rocha"
+  company: "GDG São Paulo"
+  title: "Designer, front-end e Instrutora de UX"
+  bio: ""
+  thumbnailUrl: "AldaRocha.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/mjcoffeeholick"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=108260306"}
+-
+  id: 2
+  name: "Alê"
+  surname: "Borba"
+  company: "Google"
+  bio: ""
+  thumbnailUrl: "AleBorba.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Community Manager", url: "https://developers.google.com/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+-
+  id: 3
+  name: "Ana Paula"
+  surname: "Gomes"
+  company: "GDG Belo Horizonte"
+  title: "Organizer"
+  bio: "Baiana com muito orgulho, inquieta, curiosa e completamente apaixonada por tecnologia. Atualmente faz o mestrado em Ciência da Computação na Universidade Federal de Minas Gerais. É organizadora do Google Developers Group e do Women Techmakers, ambos de Belo Horizonte. Sua linguagem do coração é o Python. Adora viajar, boas conversas (preferencialmente acompanhada de uma gelada) e pensar em aplicativos que tornem a vida das pessoas melhor. Nas horas vagas é titular do time de futsal Boas Esporte."
+  thumbnailUrl: "AnaPaulaGomes.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/AnaPaulaGomess"}
+    - {name: "github", link: "https://github.com/anapaulagomes"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anapaulagomess/pt"}
+-
+  id: 5
+  name: "Bruno"
+  surname: "Lima"
+  company: "CESAR"
+  title: "front-end Developer"
+  bio: "Web Developer, recifense, headbanger, motociclista e apaixonado por desenvolvimento web, focado no front-end. Mais de 7 anos de experiencia, passando por empresas de softwares e o agitado mercado de agência. Foi líder da equipe de Front-end na Fishy em Recife e atualmente é Front-end Developer no CESAR. É voluntário da Mozilla, apoiando e desenvolvendo a open web e neutralidade da rede. E também é membro do NodeBots Rec, fazendo robôs muito loucos com JavaScript."
+  thumbnailUrl: "BrunoLima.jpg"
+  social:
+    - {name: "twitter", link: "https://www.linkedin.com/in/brunolimawd"}
+    - {name: "github", link: "https://twitter.com/brunolimawd"}
+    - {name: "linkedin", link: "https://github.com/brunolimawd"}
+-
+  id: 7
+  name: "Eduardo"
+  surname: "Carrara"
+  company: "Intel"
+  bio: "Formado em Engenharia da Computação, atua na área de desenvolvimento de software desde 2006, teve a oportunidade de utilizar diversas tecnologias nos ramos automobilístico, financeiros e de eletrônicos para consumo. Atualmente é evangelista técnico  na Intel Software e colabora principalmente em projetos na área de educação e mobilidade com Android."
+  thumbnailUrl: "EduardoCarrara.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "Intel", title: "Technical Evangelist", url: "https://developers.google.com/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/DuCarrara"}
+-
+  id: 9
+  name: "Italo"
+  surname: "Marcel"
+  company: "Getinfo"
+  title: "Coordenador de TI"
+  bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos  durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
+  thumbnailUrl: "ItaloMarcel.jpg"
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ItaloMarcel"}
+    - {name: "twitter", link: "https://twitter.com/italo_MSS"}
+    - {name: "facebook", link: "https://www.facebook.com/italo.marcel"}
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/italo-marcel/92/690/2a4/"}
+-
+  id: 10
+  name: "Ítalo"
+  surname: "Waxman"
+  company: "Tecsinapse"
+  bio: "Graduado em Design Gráfico, especialista em interfaces web e contribuidor Open-Source nas horas vagas, descobriu durante sua jornada o poder do front-end e de como usá-lo em prol de melhores expriências . Atualmente trabalha como Deisigner/Front-ender na Tecsinapse, é o Idealizador/Organizador do Rock and Code e faz parte de projetos como Custom Elements, Js Rocks e Braziljs Conf. Verdadeiro amante dos pixels, preza pelos mínimos detalhes, acabamento impecável nos seus trabalhos e por isso acredita que esse sentimento possa ser compartilhado em prol de uma web melhor."
+  thumbnailUrl: "ItaloWaxman.jpg"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/italowaxman"}
+-
+  id: 16
   name: "Nelson"
   surname: "Glauber"
   company: "C.E.S.A.R"
@@ -13,7 +95,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+NelsonGlauber"}
     - {name: "twitter", link: "https://twitter.com/nglauber"}
 -
-  id: 2
+  id: 21
   name: "Wilson"
   surname: "Mendes"
   company: "GDE Angular"
@@ -25,19 +107,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/willmendesneto"}
 -
-  id: 3
-  name: "Alê"
-  surname: "Borba"
-  company: "Google"
-  bio: ""
-  thumbnailUrl: "AleBorba.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "Google", title: "Community Manager", url: "https://developers.google.com/"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
--
-  id: 4
+  id: 14
   name: "Marcos"
   surname: "OAP"
   company: "AnnuitWalk"
@@ -47,29 +117,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/willmendesneto"}
 -
-  id: 5
-  name: "Ítalo"
-  surname: "Waxman"
-  company: "Tecsinapse"
-  bio: "Graduado em Design Gráfico, especialista em interfaces web e contribuidor Open-Source nas horas vagas, descobriu durante sua jornada o poder do front-end e de como usá-lo em prol de melhores expriências . Atualmente trabalha como Deisigner/Front-ender na Tecsinapse, é o Idealizador/Organizador do Rock and Code e faz parte de projetos como Custom Elements, Js Rocks e Braziljs Conf. Verdadeiro amante dos pixels, preza pelos mínimos detalhes, acabamento impecável nos seus trabalhos e por isso acredita que esse sentimento possa ser compartilhado em prol de uma web melhor."
-  thumbnailUrl: "ItaloWaxman.jpg"
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/italowaxman"}
--
-  id: 6
-  name: "Eduardo"
-  surname: "Carrara"
-  company: "Intel"
-  bio: "Formado em Engenharia da Computação, atua na área de desenvolvimento de software desde 2006, teve a oportunidade de utilizar diversas tecnologias nos ramos automobilístico, financeiros e de eletrônicos para consumo. Atualmente é evangelista técnico  na Intel Software e colabora principalmente em projetos na área de educação e mobilidade com Android."
-  thumbnailUrl: "EduardoCarrara.jpg"
-  rockstar: false
-  ribbon:
-    - {abbr: "Intel", title: "Technical Evangelist", url: "https://developers.google.com/"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/DuCarrara"}
--
-  id: 7
+  id: 20
   name: "Ubiratan"
   surname: "Soares"
   company: "Globalcode"
@@ -80,49 +128,3 @@
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
--
-  id: 8
-  name: "Italo"
-  surname: "Marcel"
-  company: "Getinfo"
-  title: "Coordenador de TI"
-  bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos  durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
-  thumbnailUrl: "ItaloMarcel.jpg"
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+ItaloMarcel"}
-    - {name: "twitter", link: "https://twitter.com/italo_MSS"}
-    - {name: "facebook", link: "https://www.facebook.com/italo.marcel"}
-    - {name: "linkedin", link: "https://br.linkedin.com/pub/italo-marcel/92/690/2a4/"}
--
-  id: 9
-  name: "Alda"
-  surname: "Rocha"
-  company: "GDG São Paulo"
-  title: "Designer, front-end e Instrutora de UX"
-  bio: ""
-  thumbnailUrl: "AldaRocha.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/mjcoffeeholick"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=108260306"}
--
-  id: 10
-  name: "Ana Paula"
-  surname: "Gomes"
-  company: "GDG Belo Horizonte"
-  title: "Organizer"
-  bio: "Baiana com muito orgulho, inquieta, curiosa e completamente apaixonada por tecnologia. Atualmente faz o mestrado em Ciência da Computação na Universidade Federal de Minas Gerais. É organizadora do Google Developers Group e do Women Techmakers, ambos de Belo Horizonte. Sua linguagem do coração é o Python. Adora viajar, boas conversas (preferencialmente acompanhada de uma gelada) e pensar em aplicativos que tornem a vida das pessoas melhor. Nas horas vagas é titular do time de futsal Boas Esporte."
-  thumbnailUrl: "AnaPaulaGomes.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/AnaPaulaGomess"}
-    - {name: "github", link: "https://github.com/anapaulagomes"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anapaulagomess/pt"}
--
-  id: 11
-  name: "Em Breve"
-  surname: "mais palestrantes!"
-  company: "GDG Recife"
-  bio: ""
-  thumbnailUrl: "GDG.png"
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/"}
