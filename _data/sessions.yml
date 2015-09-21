@@ -27,9 +27,10 @@
   speakers: [16]
 -
   id: 202
-  title: "Em Breve"
+  title: "Material Design Lite"
+  description: "Material Design Lite foi lançado finalmente ao público. Depois de tornar pública sua linguagem visual (Material Design - Google Design Guidelines), agora o Google investe em uma implementação 'lite' para se tornar a base de inúmeras aplicações web. Conheça os prós e os contras relatadas em um projeto real, inclusive utilizando angular como framework js."
   subtype: presentation
-  speakers: [99]
+  speakers: [6]
 -
   id: 203
   title: "JavaScript Wearable"

@@ -190,6 +190,21 @@
     - {name: "linkedin", link: "https://br.linkedin.com/pub/yan-magalh%C3%A3es-leite/55/588/767"}
     - {name: "github", link: "https://github.com/YanMagale"}
     - {name: "twitter", link: "https://twitter.com/yaanmagale"}
+
+-
+  id: 6
+  name: "Djalma"
+  surname: "Araújo"
+  bio: "Djalma trabalha como Senior Lead UI na Woboinc.com, otimizando aplicações web e criando padrões para toda a equipe de Front-end. Além disso, é viciado em Javascript e sempre que possível contribui para algum projeto open-source, ou está criando algum maluco."
+  thumbnailUrl: "DjalmaAraujo.jpg"
+  company: "Woboinc"
+  title: "Senior Lead UI"
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/djalmaaraujo"}
+    - {name: "github", link: "http://github.com/djalmaaraujo"}
+    - {name: "twitter", link: "http://twitter.com/djalmaaraujo"}
+
 -
   id: 99
   name: "???"
