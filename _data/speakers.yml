@@ -205,6 +205,32 @@
     - {name: "github", link: "http://github.com/djalmaaraujo"}
     - {name: "twitter", link: "http://twitter.com/djalmaaraujo"}
 
+
+-
+  id: 15
+  name: "Nanderson"
+  surname: "Castro"
+  bio: "Developer por amor e curioso por natureza! Gerencia comunidades e meetups em sua região, desde PHP UG a Ionic Meetup passando pelo Google Developers Group. Zend Certified PHP Engineer, para a versão 5.5 do PHP. Acredita que promover e participar de eventos, meetups e fortalecer o network, o faz um profissional melhor e mais iterado no mercado onde atua!"
+  thumbnailUrl: "NandersonCastro.jpg"
+  company: "Code Experts App"
+  title: "Founder and Developer Application"
+  rockstar: false
+  social:
+    - {name: "github", link: "http://github.com/NandoKstroNet"}
+    - {name: "twitter", link: "http://twitter.com/NandoKstroNet"}
+
+-
+  id: 8
+  name: "Felipe"
+  surname: "de Albuquerque"
+  bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
+  thumbnailUrl: "FelipeDeAlbuquerque.jpg"
+  company: "C.E.S.A.R"
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/felipe-de-albuquerque/8/170/295"}
+    - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
+
 -
   id: 99
   name: "???"

@@ -39,7 +39,7 @@
   speakers: [5]
 -
   id: 204
-  title: "RxJava : Android Apps The Modern Way"
+  title: "RxJava: Android Apps The Modern Way"
   description: "Nessa palestra, nós vamos entender os fundamentos de FRP (Functional Reactive Programming) e como obter as principais vantagens desse paradigma de programação para desenvolvimento Android com a biblioteca RxJava, desenvolvida pelo Netflix. Venha aprender como isso pode modernizar a sua aplicação, trazendo maior concisão e clareza no seu código, além de reduzir o trabalho para tarefas comuns do dia-dia!"
   subtype: presentation
   speakers: [20]
@@ -98,9 +98,10 @@
   speakers: [7]
 -
   id: 214
-  title: "Em Breve"
+  title: "Silex no App Engine"
+  description: "Nesta talk faremos um overview sobre o Micro Framework Silex. O Silex é um micro framework focado na agilidade e extensibilidade de aplicações PHP! Aprenderemos também como realizar o deploy de nossa aplicação Silex no Google App Engine, onde abordaremos todos os processos necessários para tal operação!"
   subtype: presentation
-  speakers: [99]
+  speakers: [15]
 -
   id: 215
   title: "Internet das Coisas, o caminho para superação?"
@@ -136,6 +137,7 @@
   speakers: [10]
 -
   id: 221
-  title: "Em Breve"
+  title: "NodeBots: JavaScript muito além do Browser"
+  description: "Conheça um JavaScript extremamente diferente de qualquer outra coisa que você já imaginou! Nesta presentação vamos mostrar o poder supremo do JavaScript, vamos usar o Node.js para controlar Robôs e Drones. Acha que isso é impossível? Então vamos te apresentar ao Johnny-five.oi e você vera com seus próprios olhos!"
   subtype: presentation
-  speakers: [99]
+  speakers: [8]
