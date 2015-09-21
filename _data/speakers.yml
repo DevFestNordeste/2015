@@ -14,13 +14,15 @@
   name: "Alê"
   surname: "Borba"
   company: "Google"
-  bio: ""
+  bio: "Community Manager focado em comunidades técnicas e de developers. Trabalhando duro para melhorar, emponderar e crescer as comunidades em que esta envolvido."
   thumbnailUrl: "AleBorba.jpg"
   rockstar: true
   ribbon:
     - {abbr: "Google", title: "Community Manager", url: "https://developers.google.com/"}
   social:
-    - {name: "twitter", link: "https://twitter.com/ale_borba"}
+    - {name: "twitter", link: "http://twitter.com/ale_borba"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/alexandrealvesborba"}
+    - {name: "github", link: "http://github.com/aleborba"}
 -
   id: 3
   name: "Ana Paula"
