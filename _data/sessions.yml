@@ -22,7 +22,8 @@
   service: true
 -
   id: 201
-  title: "Google Play Services para Android"
+  title: "Google Play Services Rocks!!!"
+  description: "Com o Google Play Services, você pode adicionar aos seus aplicativos recursos fantásticos e tirar proveito dos mais recentes dos serviços do Google como Maps e Google+. Tudo isso com atualizações automáticas de plataforma distribuídos como um APK através da loja Google Play. Nessa apresentação conheceremos os principais recursos e APIs disponíveis no Google Play Services."
   subtype: presentation
   speakers: [16]
 -
