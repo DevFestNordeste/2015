@@ -232,6 +232,19 @@
     - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
 
 -
+  id: 11
+  name: "Juliana"
+  surname: "Chahoud"
+  bio: "Mestre em Inteligência Artificial (USP), atua há mais de dezesseis anos na área de TI em Desenvolvimento de Sistemas. Possui vivência internacional de um ano e meio nos EUA e India, trabalhando com desenvolvimento de aplicativos móveis. Atualmente é Líder Técnica de iOS na Movile trabalhando com o aplicativo PlayKids e professora no MBA em Desenvolvimento de Aplicações e Games para Dispositivos Móveis na FIAP."
+  thumbnailUrl: "JulianaChahoud.jpg"
+  company: "Movile"
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/julianachahoud"}
+    - {name: "twitter", link: "https://twitter.com/jchahoud"}
+    - {name: "github", link: "https://github.com/jchahoud"}
+
+-
   id: 99
   name: "???"
   company: "GDG Recife"

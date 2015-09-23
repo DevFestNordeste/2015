@@ -127,9 +127,10 @@
   speakers: [99]
 -
   id: 219
-  title: "Em Breve"
+  title: "Integrações de APIs do Google no iOS"
+  description: "Mas por que usar uma tecnologia do Google em apps iOS? Usar Google Maps é melhor do que os mapas da Apple? Google Analytics funciona bem com iOS? Consigo aproveitar alguma lógica de uma integração que já fiz no Android? Nessa palestra serão discutidas dúvidas como essas além de diversas outras sobre uso de APIs como Google Sign-In, Maps, Analytics, Places e GCM no iOS. Será mostrado na prática como é simples efetuar essas integrações e como fazer com que seu produto funcione muito bem sendo multiplataforma."
   subtype: presentation
-  speakers: [99]
+  speakers: [11]
 -
   id: 220
   title: "I Love Pixels"
