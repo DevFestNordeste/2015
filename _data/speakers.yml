@@ -48,6 +48,14 @@
     - {name: "github", link: "https://twitter.com/brunolimawd"}
     - {name: "linkedin", link: "https://github.com/brunolimawd"}
 -
+  id: 4
+  name: "Cristiano"
+  surname: "Araújo"
+  company: "CIn-UFPE"
+  bio: ""
+  thumbnailUrl: "CristianoAraujo.jpg"
+  rockstar: false
+-
   id: 6
   name: "Djalma"
   surname: "Araújo"
@@ -242,13 +250,3 @@
     - {name: "linkedin", link: "https://br.linkedin.com/pub/yan-magalh%C3%A3es-leite/55/588/767"}
     - {name: "github", link: "https://github.com/YanMagale"}
     - {name: "twitter", link: "https://twitter.com/yaanmagale"}
-
--
-  id: 99
-  name: "???"
-  company: "GDG Recife"
-  bio: ""
-  thumbnailUrl: "GDG.png"
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/"}
