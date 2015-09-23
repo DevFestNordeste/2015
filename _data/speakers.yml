@@ -48,6 +48,19 @@
     - {name: "github", link: "https://twitter.com/brunolimawd"}
     - {name: "linkedin", link: "https://github.com/brunolimawd"}
 -
+  id: 6
+  name: "Djalma"
+  surname: "Araújo"
+  bio: "Djalma trabalha como Senior Lead UI na Woboinc.com, otimizando aplicações web e criando padrões para toda a equipe de Front-end. Além disso, é viciado em Javascript e sempre que possível contribui para algum projeto open-source, ou está criando algum maluco."
+  thumbnailUrl: "DjalmaAraujo.jpg"
+  company: "Woboinc"
+  title: "Senior Lead UI"
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/djalmaaraujo"}
+    - {name: "github", link: "http://github.com/djalmaaraujo"}
+    - {name: "twitter", link: "http://twitter.com/djalmaaraujo"}
+-
   id: 7
   name: "Eduardo"
   surname: "Carrara"
@@ -59,6 +72,17 @@
     - {abbr: "Intel", title: "Technical Evangelist", url: "https://developers.google.com/"}
   social:
     - {name: "twitter", link: "https://twitter.com/DuCarrara"}
+-
+  id: 8
+  name: "Felipe"
+  surname: "de Albuquerque"
+  bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
+  thumbnailUrl: "FelipeDeAlbuquerque.jpg"
+  company: "C.E.S.A.R"
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/felipe-de-albuquerque/8/170/295"}
+    - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
 -
   id: 9
   name: "Italo"
@@ -83,6 +107,65 @@
   social:
     - {name: "twitter", link: "https://twitter.com/italowaxman"}
 -
+  id: 11
+  name: "Juliana"
+  surname: "Chahoud"
+  bio: "Mestre em Inteligência Artificial (USP), atua há mais de dezesseis anos na área de TI em Desenvolvimento de Sistemas. Possui vivência internacional de um ano e meio nos EUA e India, trabalhando com desenvolvimento de aplicativos móveis. Atualmente é Líder Técnica de iOS na Movile trabalhando com o aplicativo PlayKids e professora no MBA em Desenvolvimento de Aplicações e Games para Dispositivos Móveis na FIAP."
+  thumbnailUrl: "JulianaChahoud.jpg"
+  company: "Movile"
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/julianachahoud"}
+    - {name: "twitter", link: "https://twitter.com/jchahoud"}
+    - {name: "github", link: "https://github.com/jchahoud"}
+
+-
+  id: 12
+  name: "Lhaís"
+  surname: "Rodrigues"
+  company: "Women Makers"
+  bio: "Criadora e Fundadora do Women Makers, Graduanda em Engenharia da Computação pelo CIn-UFPE, apaixonada por Tecnologia, Inovação e Empreendedorismo, Embaixadora do Technovation Challenge. Já vivenciou experiência acadêmicas em países como EUA e Suíça. Nas horas vagas, gosta de dar palestras ou workshops sobre Tecnologia e Empreendedorismo, fazendo com que as pessoas busquem acreditar nos sonhos delas."
+  thumbnailUrl: "LhaisRodrigues.jpg"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/lhaisrs_"}
+    - {name: "facebook", link: "hhttps://www.facebook.com/lhais.rodrigues.5"}
+
+-
+  id: 13
+  name: "Lidiane"
+  surname: "Monteiro"
+  bio: "Fundadora do Blog InspirAda na Computação, estagiária de Desenvolvimento Web na FUNDAJ e Bolsista na SBPC-PE. Graduanda em Licenciatura Plena em Computação na UFRPE e Co-coordenadora de Mídias Sociais da Python Brasil. Em 2014, participou da fundação do Women Who Code - Recife e do PyLadies Recife se tornando co-fundadora."
+  thumbnailUrl: "LidianeSouza.jpg"
+  company: "Woman Who Code"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Lidy_Monteiro"}
+    - {name: "facebook", link: "https://www.facebook.com/lidiannemonteiro"}
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/lidiane-de-souza-monteiro/59/936/47a"}
+    - {name: "github", link: "https://github.com/lidymonteirowm"}
+
+-
+  id: 14
+  name: "Marcos"
+  surname: "OAP"
+  company: "AnnuitWalk"
+  bio: "Marcos OAP é graduado em Ciência da Computação pela Devry University Brasil. Desde o início de sua carreira já acumula 9 anos de experiência como profissional da área, fornecendo soluções de negócios para empresas nacionais e internacionais, atuando em papéis de analise, desenvolvimento e gerência de projetos. É fascinado por inovação e projetos desafiadores. Entusiasta da área de Wearable Computers, é fundador do grupo de pesquisas WearIT, que está fortemente engajado com diversos projetos de responsabilidade social e acessibilidade. Co-fundador e CEO do AnnuitWalk, startup com foco em tecnologias assistivas inovadoras para deficientes visuais sendo Global Winner da premiação internacional da ONU, o World Summit Youth Award. Apaixonado por tecnologia e projetos de responsabilidade social, acredita fortemente no potencial inovador das tecnologias assistivas em nossas vidas, estando amplamente envolvido com projetos de P&D que buscam significativa melhora na qualidade de vida e inclusão social de deficientes."
+  thumbnailUrl: "MarcosOAP.jpg"
+  rockstar: true
+-
+  id: 15
+  name: "Nanderson"
+  surname: "Castro"
+  bio: "Developer por amor e curioso por natureza! Gerencia comunidades e meetups em sua região, desde PHP UG a Ionic Meetup passando pelo Google Developers Group. Zend Certified PHP Engineer, para a versão 5.5 do PHP. Acredita que promover e participar de eventos, meetups e fortalecer o network, o faz um profissional melhor e mais iterado no mercado onde atua!"
+  thumbnailUrl: "NandersonCastro.jpg"
+  company: "Code Experts App"
+  title: "Founder and Developer Application"
+  rockstar: false
+  social:
+    - {name: "github", link: "http://github.com/NandoKstroNet"}
+    - {name: "twitter", link: "http://twitter.com/NandoKstroNet"}
+-
   id: 16
   name: "Nelson"
   surname: "Glauber"
@@ -96,61 +179,6 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+NelsonGlauber"}
     - {name: "twitter", link: "https://twitter.com/nglauber"}
--
-  id: 21
-  name: "Wilson"
-  surname: "Mendes"
-  company: "GDE Angular"
-  bio: "Google Developer Expert (GDE) AngularJS e organizador do GDG Salvador. Músico e designer nas horas vagas."
-  thumbnailUrl: "WilsonMendes.jpg"
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
--
-  id: 14
-  name: "Marcos"
-  surname: "OAP"
-  company: "AnnuitWalk"
-  bio: "Marcos OAP é graduado em Ciência da Computação pela Devry University Brasil. Desde o início de sua carreira já acumula 9 anos de experiência como profissional da área, fornecendo soluções de negócios para empresas nacionais e internacionais, atuando em papéis de analise, desenvolvimento e gerência de projetos. É fascinado por inovação e projetos desafiadores. Entusiasta da área de Wearable Computers, é fundador do grupo de pesquisas WearIT, que está fortemente engajado com diversos projetos de responsabilidade social e acessibilidade. Co-fundador e CEO do AnnuitWalk, startup com foco em tecnologias assistivas inovadoras para deficientes visuais sendo Global Winner da premiação internacional da ONU, o World Summit Youth Award. Apaixonado por tecnologia e projetos de responsabilidade social, acredita fortemente no potencial inovador das tecnologias assistivas em nossas vidas, estando amplamente envolvido com projetos de P&D que buscam significativa melhora na qualidade de vida e inclusão social de deficientes."
-  thumbnailUrl: "MarcosOAP.jpg"
-  rockstar: true
--
-  id: 20
-  name: "Ubiratan"
-  surname: "Soares"
-  company: "Globalcode"
-  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo. Trabalha com mobilidade há mais de 5 anos, trabalha hoje com desenvolvimento para Android (mas não fica some nele!) e tem participação direta em alguns dos maiores aplicativos nacionais hoje online. Também é instrutor da Globalcode, co-organizador do GDG São Paulo, palestrante, pai de um menino, filósofo wanna-be. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa Intel Software Innovator, também para Android."
-  thumbnailUrl: "UbiratanSoares.jpg"
-  rockstar: false
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
--
-  id: 12
-  name: "Lhaís"
-  surname: "Rodrigues"
-  company: "Women Makers"
-  bio: "Criadora e Fundadora do Women Makers, Graduanda em Engenharia da Computação pelo CIn-UFPE, apaixonada por Tecnologia, Inovação e Empreendedorismo, Embaixadora do Technovation Challenge. Já vivenciou experiência acadêmicas em países como EUA e Suíça. Nas horas vagas, gosta de dar palestras ou workshops sobre Tecnologia e Empreendedorismo, fazendo com que as pessoas busquem acreditar nos sonhos delas."
-  thumbnailUrl: "LhaisRodrigues.jpg"
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/lhaisrs_"}
-    - {name: "facebook", link: "hhttps://www.facebook.com/lhais.rodrigues.5"}
--
-  id: 13
-  name: "Lidiane"
-  surname: "Monteiro"
-  bio: "Fundadora do Blog InspirAda na Computação, estagiária de Desenvolvimento Web na FUNDAJ e Bolsista na SBPC-PE. Graduanda em Licenciatura Plena em Computação na UFRPE e Co-coordenadora de Mídias Sociais da Python Brasil. Em 2014, participou da fundação do Women Who Code - Recife e do PyLadies Recife se tornando co-fundadora."
-  thumbnailUrl: "LidianeSouza.jpg"
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/Lidy_Monteiro"}
-    - {name: "facebook", link: "https://www.facebook.com/lidiannemonteiro"}
-    - {name: "linkedin", link: "https://br.linkedin.com/pub/lidiane-de-souza-monteiro/59/936/47a"}
-    - {name: "github", link: "https://github.com/lidymonteirowm"}
 -
   id: 17
   name: "Paulo"
@@ -177,6 +205,30 @@
     - {name: "facebook", link: "https://www.facebook.com/ThomazFreitas"}
     - {name: "linkedin", link: "https://br.linkedin.com/in/ThomazFB"}
 -
+  id: 20
+  name: "Ubiratan"
+  surname: "Soares"
+  company: "Globalcode"
+  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo. Trabalha com mobilidade há mais de 5 anos, trabalha hoje com desenvolvimento para Android (mas não fica some nele!) e tem participação direta em alguns dos maiores aplicativos nacionais hoje online. Também é instrutor da Globalcode, co-organizador do GDG São Paulo, palestrante, pai de um menino, filósofo wanna-be. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa Intel Software Innovator, também para Android."
+  thumbnailUrl: "UbiratanSoares.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
+-
+  id: 21
+  name: "Wilson"
+  surname: "Mendes"
+  company: "GDE Angular"
+  bio: "Google Developer Expert (GDE) AngularJS e organizador do GDG Salvador. Músico e designer nas horas vagas."
+  thumbnailUrl: "WilsonMendes.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+-
   id: 22
   name: "Yan Magalhães"
   surname: "Leite"
@@ -190,59 +242,6 @@
     - {name: "linkedin", link: "https://br.linkedin.com/pub/yan-magalh%C3%A3es-leite/55/588/767"}
     - {name: "github", link: "https://github.com/YanMagale"}
     - {name: "twitter", link: "https://twitter.com/yaanmagale"}
-
--
-  id: 6
-  name: "Djalma"
-  surname: "Araújo"
-  bio: "Djalma trabalha como Senior Lead UI na Woboinc.com, otimizando aplicações web e criando padrões para toda a equipe de Front-end. Além disso, é viciado em Javascript e sempre que possível contribui para algum projeto open-source, ou está criando algum maluco."
-  thumbnailUrl: "DjalmaAraujo.jpg"
-  company: "Woboinc"
-  title: "Senior Lead UI"
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/djalmaaraujo"}
-    - {name: "github", link: "http://github.com/djalmaaraujo"}
-    - {name: "twitter", link: "http://twitter.com/djalmaaraujo"}
-
-
--
-  id: 15
-  name: "Nanderson"
-  surname: "Castro"
-  bio: "Developer por amor e curioso por natureza! Gerencia comunidades e meetups em sua região, desde PHP UG a Ionic Meetup passando pelo Google Developers Group. Zend Certified PHP Engineer, para a versão 5.5 do PHP. Acredita que promover e participar de eventos, meetups e fortalecer o network, o faz um profissional melhor e mais iterado no mercado onde atua!"
-  thumbnailUrl: "NandersonCastro.jpg"
-  company: "Code Experts App"
-  title: "Founder and Developer Application"
-  rockstar: false
-  social:
-    - {name: "github", link: "http://github.com/NandoKstroNet"}
-    - {name: "twitter", link: "http://twitter.com/NandoKstroNet"}
-
--
-  id: 8
-  name: "Felipe"
-  surname: "de Albuquerque"
-  bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
-  thumbnailUrl: "FelipeDeAlbuquerque.jpg"
-  company: "C.E.S.A.R"
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/pub/felipe-de-albuquerque/8/170/295"}
-    - {name: "twitter", link: "https://twitter.com/felipedeolinda"}
-
--
-  id: 11
-  name: "Juliana"
-  surname: "Chahoud"
-  bio: "Mestre em Inteligência Artificial (USP), atua há mais de dezesseis anos na área de TI em Desenvolvimento de Sistemas. Possui vivência internacional de um ano e meio nos EUA e India, trabalhando com desenvolvimento de aplicativos móveis. Atualmente é Líder Técnica de iOS na Movile trabalhando com o aplicativo PlayKids e professora no MBA em Desenvolvimento de Aplicações e Games para Dispositivos Móveis na FIAP."
-  thumbnailUrl: "JulianaChahoud.jpg"
-  company: "Movile"
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/julianachahoud"}
-    - {name: "twitter", link: "https://twitter.com/jchahoud"}
-    - {name: "github", link: "https://github.com/jchahoud"}
 
 -
   id: 99
