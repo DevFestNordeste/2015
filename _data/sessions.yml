@@ -40,8 +40,8 @@
   speakers: [5]
 -
   id: 204
-  title: "RxJava: Android Apps The Modern Way"
-  description: "Nessa palestra, nós vamos entender os fundamentos de FRP (Functional Reactive Programming) e como obter as principais vantagens desse paradigma de programação para desenvolvimento Android com a biblioteca RxJava, desenvolvida pelo Netflix. Venha aprender como isso pode modernizar a sua aplicação, trazendo maior concisão e clareza no seu código, além de reduzir o trabalho para tarefas comuns do dia-dia!"
+  title: "DeepLinking, AppIndexing e além : conteúdo espelhado entre a Web e seu app Android"
+  description: "Nessa palestra, vamos entender as motivações e como funciona o mecanismo de DeepLinking no Android e como ele pode ser simplificado em relação à abordagem canônica. Veremos também como indexar o conteúdo do seu app no buscador do Google e quais os benefícios, bem como as fronteiras de como simples URLs podem ser determinantes para uma experiência especial do usuário das nossas aplicações Android."
   subtype: presentation
   speakers: [20]
 -

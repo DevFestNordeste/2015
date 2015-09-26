@@ -216,14 +216,16 @@
   id: 20
   name: "Ubiratan"
   surname: "Soares"
-  company: "Globalcode"
-  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo. Trabalha com mobilidade há mais de 5 anos, trabalha hoje com desenvolvimento para Android (mas não fica some nele!) e tem participação direta em alguns dos maiores aplicativos nacionais hoje online. Também é instrutor da Globalcode, co-organizador do GDG São Paulo, palestrante, pai de um menino, filósofo wanna-be. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa Intel Software Innovator, também para Android."
+  company: "LuizaLabs"
+  bio: "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo. Trabalha com mobilidade há mais de 5 anos, e é hoje colaborador do LuizaLabs em São Paulo. Adora desenvolvimento para Android (mas não fica some nele!) e tem participação direta em alguns dos maiores aplicativos nacionais hoje online. Também é instrutor da Globalcode, co-organizador do GDG São Paulo, palestrante, pai de um menino, filósofo wannabe. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa Intel Software Innovator, também para Android."
   thumbnailUrl: "UbiratanSoares.jpg"
   rockstar: false
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "twitter", link: "https://twitter.com/ubiratanfsoares"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/ubiratanfsoares"}
+    - {name: "github", link: "https://github.com/ubiratansoares"}
 -
   id: 21
   name: "Wilson"
