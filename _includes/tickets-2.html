@@ -30,7 +30,12 @@
 							</span>
 							{% else %}
 		           			{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-							<span class="button disabled fallback">Ingressos começarão a ser vendidos em {{ ticketValidFrom[0] | date: "%-d/%m/%Y"}}</span>
+										{% if ticketsOffer.ticketsNumber == '-1' %}
+											<span class="button disabled fallback" style="line-height: 39px;font-size: 1.5em;">Esgotado</span>
+
+										{% else %}
+											<span class="button disabled fallback">Ingressos começarão a ser vendidos em {{ ticketValidFrom[0] | date: "%-d/%m/%Y"}}</span>
+										{% endif %}
 							{% endif %}
 						</div>
 					</div>
