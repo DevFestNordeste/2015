@@ -252,3 +252,17 @@
     - {name: "linkedin", link: "https://br.linkedin.com/pub/yan-magalh%C3%A3es-leite/55/588/767"}
     - {name: "github", link: "https://github.com/YanMagale"}
     - {name: "twitter", link: "https://twitter.com/yaanmagale"}
+
+
+-
+id: 23
+name: "Luiz Tiago"
+surname: "Oliveira"
+bio: "Com mais de 10 anos de experiência, trabalhou em alguns projetos open-source e é um dos fundadores do Pernambuco.JS e jQuery Brazil. Atualmente trabalha na Wobo Inc (Martinez, CA) como desenvolvedor full-stack, especialista em Front-End e Mobile."
+thumbnailUrl: "LuizTiago.jpg"
+company: "Wobo Inc"
+rockstar: false
+social:
+- {name: "facebook", link: "https://www.facebook.com/luiztiago"}
+- {name: "github", link: "https://github.com/luiztiago"}
+- {name: "twitter", link: "https://twitter.com/luiztiago"}

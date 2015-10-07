@@ -75,9 +75,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "400", specialCharacter: "+", info: "participantes", detail: "de todo Nordeste"}
- - {count: "21", specialCharacter: "+", info: "palestrantes", detail: "e especialistas de tecnologia"}
- - {count: "24", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
- - {count: "3", specialCharacter: "+", info: "trilhas paralelas", detail: "e muitas novidades"}
+ - {count: "26", specialCharacter: "+", info: "palestrantes", detail: "e especialistas de tecnologia"}
+ - {count: "32", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
+ - {count: "4", specialCharacter: "+", info: "trilhas paralelas", detail: "e muitas novidades"}
 
 # Latest News Block
 latestNewsTitle: "Últimas Notícias"
