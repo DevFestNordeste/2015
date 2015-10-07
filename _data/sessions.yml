@@ -21,6 +21,12 @@
   place: "Marco Zero"
   service: true
 -
+  id: 601
+  title: "After Hours DevFest Nordeste"
+  place: "Rock & Ribs"
+  service: true
+  description: "Clone de Budweiser na Rock & Ribs do Recife Antigo, pra quem estiver com a pulseira do DevFest (e tiver mais de 18 anos!) <br><img src='img/partners/rnr.jpg' style='margin-top: 20px'>"
+-
   id: 201
   title: "Google Play Services Rocks!!!"
   description: "Com o Google Play Services, você pode adicionar aos seus aplicativos recursos fantásticos e tirar proveito dos mais recentes dos serviços do Google como Maps e Google+. Tudo isso com atualizações automáticas de plataforma distribuídos como um APK através da loja Google Play. Nessa apresentação conheceremos os principais recursos e APIs disponíveis no Google Play Services."

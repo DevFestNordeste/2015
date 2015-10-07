@@ -2,12 +2,17 @@
   group: "O Doceiro"
   elements:
     - {name: "Google", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "developers-final.png", width: "720px"}
+
+- group: "Jelly Bean"
+  elements:
+    - {name: "Intel", description: "Intel Software", link: "https://software.intel.com/pt-br/", imageUrl: "intelsoftware.png", width: "320px"}
 -
   group: "Ice Cream Sandwich"
   elements:
     - {name: "Nós Coworking", description: "Nós Coworking", link: "http://noscoworking.com.br", imageUrl: "nos-coworking.png", width: "220px"}
     - {name: "CESAR", description: "CESAR", link: "http://www.cesar.org.br/", imageUrl: "cesar.jpg", width: "220px"}
     - {name: "Movile", description: "Movile", link: "https://www.movile.com", imageUrl: "movile.png", width: "220px"}
+    - {name: "Porto Digital", description: "Porto Digital", link: "http://www.portodigital.org/home", imageUrl: "portodigital.png", width: "220px"}
 -
   group: "Honeycomb"
   elements:
@@ -16,7 +21,6 @@
 -
   group: "Apoio"
   elements:
-    - {name: "Intel", description: "Intel Software", link: "https://software.intel.com/pt-br/", imageUrl: "intelsoftware.png", width: "190px"}
     - {name: "Tampa Works", description: "Tampa Works", link: "https://tampa.works", imageUrl: "tampa.png", width: "190px"}
     - {name: "Casa do Código", description: "Casa do Código", link: "http://www.casadocodigo.com.br/", imageUrl: "casadocodigo.svg", width: "190px"}
 -
