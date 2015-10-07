@@ -5,6 +5,7 @@
     - {title: "Android", color: "#339939"}
     - {title: "Chrome & Cloud", color: "#D04730"}
     - {title: "Alphabet", color: "#F0C000"}
+    - {title: "Expo by WTM", color: "#32BDA2"}
   timeslots:
     - {
     	startTime: "08:00",
@@ -14,17 +15,17 @@
     - {
     	startTime: "09:30",
     	endTime: "10:10",
-    	sessionIds: [201, 220, 203]
+    	sessionIds: [201, 220, 203, 501]
     }
     - {
     	startTime: "10:30",
     	endTime: "11:10",
-    	sessionIds: [204, 202, 206]
+    	sessionIds: [204, 202, 206, 502]
     }
     - {
     	startTime: "11:30",
     	endTime: "12:10",
-    	sessionIds: [207, 208, 209]
+    	sessionIds: [207, 208, 209, 503]
     }
     - {
     	startTime: "12:10",
@@ -34,12 +35,12 @@
     - {
     	startTime: "14:10",
     	endTime: "14:50",
-    	sessionIds: [210, 214, 212]
+    	sessionIds: [210, 214, 212, 504]
     }
     - {
     	startTime: "15:10",
     	endTime: "15:50",
-    	sessionIds: [213, 221, 215]
+    	sessionIds: [213, 221, 215, 504]
     }
     - {
     	startTime: "15:50",
@@ -49,12 +50,12 @@
     - {
     	startTime: "16:20",
     	endTime: "17:00",
-    	sessionIds: [216, 217, 211]
+    	sessionIds: [216, 217, 211, 505]
     }
     - {
     	startTime: "17:20",
     	endTime: "18:00",
-    	sessionIds: [219, 205, 218]
+    	sessionIds: [219, 205, 218, 506]
     }
     - {
     	startTime: "18:30",

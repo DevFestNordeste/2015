@@ -255,14 +255,57 @@
 
 
 -
-id: 23
-name: "Luiz Tiago"
-surname: "Oliveira"
-bio: "Com mais de 10 anos de experiência, trabalhou em alguns projetos open-source e é um dos fundadores do Pernambuco.JS e jQuery Brazil. Atualmente trabalha na Wobo Inc (Martinez, CA) como desenvolvedor full-stack, especialista em Front-End e Mobile."
-thumbnailUrl: "LuizTiago.jpg"
-company: "Wobo Inc"
-rockstar: false
-social:
-- {name: "facebook", link: "https://www.facebook.com/luiztiago"}
-- {name: "github", link: "https://github.com/luiztiago"}
-- {name: "twitter", link: "https://twitter.com/luiztiago"}
+  id: 23
+  name: "Luiz Tiago"
+  surname: "Oliveira"
+  bio: "Com mais de 10 anos de experiência, trabalhou em alguns projetos open-source e é um dos fundadores do Pernambuco.JS e jQuery Brazil. Atualmente trabalha na Wobo Inc (Martinez, CA) como desenvolvedor full-stack, especialista em Front-End e Mobile."
+  thumbnailUrl: "Luiz.jpg"
+  company: "Wobo Inc"
+  rockstar: false
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/luiztiago"}
+  - {name: "github", link: "https://github.com/luiztiago"}
+  - {name: "twitter", link: "https://twitter.com/luiztiago"}
+
+-
+  id: 24
+  name: "Mário"
+  surname: "Valney"
+  bio: "Desenvolvedor Front-End e Android. É ex-embaixador do Google no Google Student Ambassador Program, além de ser apaixonado por WordPress, pelas APIs do Google e por comida japonesa."
+  thumbnailUrl: "Mario.jpg"
+  rockstar: false
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/mariovalney"}
+  - {name: "github", link: "https://github.com/mariovalney"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/mariovalney"}
+
+-
+  id: 25
+  name: "Eiran"
+  surname: "Simis"
+  thumbnailUrl: "Eiran.jpg"
+  rockstar: false
+
+-
+  id: 26
+  name: "Levi"
+  surname: "Saturnino"
+  thumbnailUrl: "Levi.jpg"
+  bio: "Técnico em Informática pela Escola Leiaute, Técnico em Informática para Internet pela Instituto Federal de Pernambuco - IFPE e Cursando 8° período de Sistema de Informação pela Universidade de Pernambuco - UPE. "
+  rockstar: false
+  social:
+  - {name: "twitter", link: "https://twitter.com/levisaturnino"}
+  - {name: "facebook", link: "https://www.facebook.com/levi.saturnino"}
+
+
+-
+  id: 27
+  name: "Thulio"
+  surname: "Philipe"
+  thumbnailUrl: "Thulio.jpg"
+  bio: "É desenvolvedor web freelancer e participou de projetos como: ComuniQ e Amigo secreto do Shopping Recife, atualmente em parceria com a Epitrack nos projetos: Saúde na Copa, Flu Near You e Salud Boricua. Formado em design gráfico pela Unibratec e especialista em Web-Apps é também entusiasta de CSS; Ah! É fã de Breaking Bad e House."
+  rockstar: false
+  social:
+  - {name: "twitter", link: "https://twitter.com/thulioph_"}
+  - {name: "facebook", link: "https://www.facebook.com/Thulioph"}
+  - {name: "github", link: "https://www.github.com/thulioph"}
