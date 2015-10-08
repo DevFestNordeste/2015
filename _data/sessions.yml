@@ -174,6 +174,13 @@
   speakers: [1, 3, 12, 13]
 
 -
+  id: 507
+  title: "Painel: Mulheres na Tecnologia"
+  subtype: painel
+  speakers: []
+
+
+-
   id: 505
   title: "Android for Noobs"
   description: "A ideia tem princípio para pessoas que estão começando a desenvolver para Android e não saber por onde começa. Na apresentação ensino o básico requerido para desenvolvendo mobile desde da autodidática até a publicação do seu primeiro aplicativo. Mostrando todas as dificuldades que passei na prática e destrinchando entre a linguagem, livros, vídeos aulas e fórum e comunidades para o publico onde ele poderá ter dificuldade e saber o que preciso estudar para ser um desenvolvedor Android quando tem pouco conhecimento na área e procurando na internet os problemas."
