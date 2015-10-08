@@ -161,6 +161,10 @@
   bio: "Marcos OAP é graduado em Ciência da Computação pela Devry University Brasil. Desde o início de sua carreira já acumula 9 anos de experiência como profissional da área, fornecendo soluções de negócios para empresas nacionais e internacionais, atuando em papéis de analise, desenvolvimento e gerência de projetos. É fascinado por inovação e projetos desafiadores. Entusiasta da área de Wearable Computers, é fundador do grupo de pesquisas WearIT, que está fortemente engajado com diversos projetos de responsabilidade social e acessibilidade. Co-fundador e CEO do AnnuitWalk, startup com foco em tecnologias assistivas inovadoras para deficientes visuais sendo Global Winner da premiação internacional da ONU, o World Summit Youth Award. Apaixonado por tecnologia e projetos de responsabilidade social, acredita fortemente no potencial inovador das tecnologias assistivas em nossas vidas, estando amplamente envolvido com projetos de P&D que buscam significativa melhora na qualidade de vida e inclusão social de deficientes."
   thumbnailUrl: "MarcosOAP.jpg"
   rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/marcosoaph"}
+    - {name: "facebook", link: "https://www.facebook.com/marcospenhafilho"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcosoap"}
 -
   id: 15
   name: "Nanderson"
