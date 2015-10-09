@@ -177,7 +177,7 @@
   id: 507
   title: "Painel: Mulheres na Tecnologia"
   subtype: painel
-  speakers: []
+  speakers: [1, 28, 29, 30]
 
 
 -

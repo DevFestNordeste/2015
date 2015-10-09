@@ -318,3 +318,44 @@
   - {name: "twitter", link: "https://twitter.com/thulioph_"}
   - {name: "facebook", link: "https://www.facebook.com/Thulioph"}
   - {name: "github", link: "https://www.github.com/thulioph"}
+
+
+-
+  id: 28
+  name: "Ana Paula"
+  surname: "Lourenço"
+  thumbnailUrl: "AnaLourenco.jpg"
+  bio: "Ana Paula Lourenço é graduanda em Redes de Computadores pela Estácio em Fortaleza. Faz pesquisa na área robótica voltada a acessibilidade desenvolvendo o CVox - controle remoto univeral para TV com comando por voz para pessoas com pouca mobilidade e Co-Founder na startup do projeto CVox, chamada A2LAB Innovation. Atualmente é coordenadora do ForHacker Space (primeiro hackerspace do Ceará), coordenadora do Pug-Ce, Fundadora do Pyladies Fortaleza e coordenadora do evento Byte Girl."
+  rockstar: false
+  company: "Pyladies Fortaleza"
+  social:
+  - {name: "twitter", link: "https://twitter.com/anapaulalourens"}
+  - {name: "linkedin", link: "https://br.linkedin.com/in/anapaulalourenco"}
+  - {name: "facebook", link: "https://www.facebook.com/anapaulalourenc"}
+
+-
+  id: 29
+  name: "Suzyanne de Oliveira"
+  surname: "Queiroz"
+  thumbnailUrl: "Suzy.jpg"
+  bio: "Graduada em Tecnologia Analise e Desenvolvimento de Sistemas(IFRN) e atualmente cursando mestrado profissional MPInova na UFRN. Participou de Projetos : Cloud Computing, Aplicações para TV DIGITAL,Programar meu Futuro - Estimulando a participação feminina no mercado de TI, Greenhug - Aplicação para Turismo Sustentável. Atuou como Desenvolvedora de Sistemas na Policia, foi CLT na Multinacional Indra como Analista de Sistemas. Atualmente encontra-se como sócia de uma startup chamada Comunicarte Web na incubadora NIT( IFRN ) na construção do software Linkest. Linha de atuação: Desenvolvimento, gerência de projetos,engenharia de software e processos de inovação."
+  rockstar: false
+  company: "Code Girl"
+  social:
+  - {name: "twitter", link: "https://twitter.com/suzynerd"}
+  - {name: "linkedin", link: "http://br.linkedin.com/in/suzynerd"}
+  - {name: "facebook", link: "https://www.facebook.com/suzyanerd"}
+  - {name: "github", link: "https://github.com/suzynerd"}
+
+
+-
+  id: 30
+  name: "Tainá"
+  surname: "Medeiros"
+  thumbnailUrl: "Taina.jpg"
+  bio: "Fundadora do Projeto Meninas Também Jogam, Graduada em Ciências da Computação, Especialista em Segurança da Informação e Mestre em Sistemas e Computação com foco em jogos digitais.  Uma viciada em games que decidiu aprender a desenvolver games e conseguiu fazer do seu vicio um trabalho. Atualmente, é professora do IFRN e acredita que através dos games podemos fazer um mundo melhor."
+  rockstar: false
+  company: "Meninas Também Jogam"
+  social:
+  - {name: "twitter", link: "https://twitter.com/taina_medeiros"}
+  - {name: "facebook", link: "https://www.facebook.com/taina.medeiros.121"}
