@@ -20,12 +20,19 @@
   title: "Encerramento"
   place: "Marco Zero"
   service: true
+  description: "Sorteios de brinde, aquela foto animada, e algumas surpresas (shh). Mas calma, não acabou ainda!"
+-
+  id: 602
+  title: "Jack Daniels apresenta: Festival Profana Rock"
+  place: "Profana Pub: Rua Tomazina, 112, Recife Antigo"
+  service: true
+  description: "Festival Profana Pub (Rua Tomazina, 112), com entrada por apenas R$25 para quem <a href='http://www.eventick.com.br/FESTIVALPROFANAROCK'>comprar pelo site</a>; ou na porta do evento, usando a pulseira do evento (e claro, tenha mais que 18 anos!). Não se esqueça de pedir o drink exclusivo do DevFest! <br><a href='http://www.eventick.com.br/FESTIVALPROFANAROCK'><img src='img/partners/profana.jpg' style='margin-top: 20px'></a>"
 -
   id: 601
-  title: "After Hours DevFest Nordeste"
-  place: "Rock & Ribs"
+  title: "Happy Hour Budweiser"
+  place: "Rock&Ribs Lounge: Armazens do Porto, Marco Zero"
   service: true
-  description: "Clone de Budweiser na Rock & Ribs do Recife Antigo, pra quem estiver com a pulseira do DevFest (e tiver mais de 18 anos!) <br><img src='img/partners/rnr.jpg' style='margin-top: 20px'>"
+  description: "Clone de Budweiser na Rock & Ribs do Recife Antigo (localizado no Armazens do Porto), pra quem estiver com a pulseira do DevFest (e tiver mais de 18 anos!) <br><img src='img/partners/rnr.jpg' style='margin-top: 20px'>"
 -
   id: 201
   title: "Google Play Services Rocks!!!"
@@ -178,6 +185,7 @@
   title: "Painel #2: Mulheres na Tecnologia"
   subtype: painel
   speakers: [1, 28, 29, 30, 13]
+
 
 -
   id: 505

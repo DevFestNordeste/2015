@@ -62,8 +62,19 @@
     	endTime: "19:00",
     	sessionIds: [301]
     }
+-
+  date: "2015-10-18"
+  dateReadable: "After Hours"
+  tracks:
+    - {title: "Recife Antigo", color: "#339939"}
+  timeslots:
     - {
-    	startTime: "19:00",
-    	endTime: "21:00",
-    	sessionIds: [601]
+      startTime: "18:00",
+      endTime: "21:00",
+      sessionIds: [601]
+    }
+    - {
+      startTime: "19:00",
+      endTime: "06:00",
+      sessionIds: [602]
     }
