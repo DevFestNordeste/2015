@@ -75,7 +75,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "500", specialCharacter: "+", info: "participantes", detail: "de todo Nordeste"}
- - {count: "26", specialCharacter: "+", info: "palestrantes", detail: "e especialistas de tecnologia"}
+ - {count: "30", specialCharacter: "+", info: "palestrantes", detail: "e especialistas de tecnologia"}
  - {count: "32", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
  - {count: "4", specialCharacter: "+", info: "trilhas paralelas", detail: "e muitas novidades"}
 
@@ -97,9 +97,9 @@ eventAddressLocality: "Bairro do Recife"
 eventAddressLocalityRegion: "Pernambuco"
 eventPostalCode: "79000"
 eventAddressCountry: "Brasil"
-eventStartTime: "2015-10-17T09:00"
+eventStartTime: "2015-10-17T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2015-10-17T19:00"
+eventEndTime: "2015-10-17T20:00"
 eventPlaceCoordinates: "-8.063149, -34.871311"
 mapCenterCoordinates: "-8.063149, -34.874414"
 mapMobileCenterCoordinates: "-8.063149, -34.871311"
