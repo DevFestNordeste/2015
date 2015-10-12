@@ -169,16 +169,15 @@
 
 -
   id: 504
-  title: "Painel: Mulheres na Tecnologia"
+  title: "Painel #1: Mulheres na Tecnologia"
   subtype: painel
-  speakers: [1, 3, 12, 13]
+  speakers: [1, 3, 12, 31]
 
 -
   id: 507
-  title: "Painel: Mulheres na Tecnologia"
+  title: "Painel #2: Mulheres na Tecnologia"
   subtype: painel
-  speakers: [1, 28, 29, 30]
-
+  speakers: [1, 28, 29, 30, 13]
 
 -
   id: 505

@@ -347,7 +347,6 @@
   - {name: "facebook", link: "https://www.facebook.com/suzyanerd"}
   - {name: "github", link: "https://github.com/suzynerd"}
 
-
 -
   id: 30
   name: "Tainá"
@@ -359,3 +358,16 @@
   social:
   - {name: "twitter", link: "https://twitter.com/taina_medeiros"}
   - {name: "facebook", link: "https://www.facebook.com/taina.medeiros.121"}
+
+-
+  id: 31
+  name: "Andreza"
+  surname: "Leite"
+  thumbnailUrl: "AndrezaLeite.jpg"
+  bio: "Andreza Leite tem Mestrado em Ciência da Computação pelo Centro de Informática da Universidade Federal de Pernambuco (UFPE) e está cursando o Doutorado também no CIn/UFPE. Graduada em Sistemas de Informação pela Universidade Federal do Pará (UFPA). É professora na Universidade Federal Rural de Pernambuco (UFRPE). Tem experiência na área de Ciência da Computação, com interesse principalmente nos temas: Banco de Dados; Sistemas Distribuídos e Gerenciamento de dados em Nuvem. Já palestrou em eventos de Tecnologia e Empreendedorismo como Campus Party, FISL, CSBC, Consoline entre outros. É Fundadora do Women Who Code Recife, Pyladies Recife e Embaixadora do Technovation Challenge Brasil."
+  rockstar: false
+  company: "Women Who Code"
+  social:
+  - {name: "twitter", link: "https://twitter.com/andreza_paju"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/andrezaleite"}
+  - {name: "github", link: "https://github.com/andrezaleite"}
