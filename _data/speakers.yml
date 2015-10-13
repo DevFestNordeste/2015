@@ -61,7 +61,7 @@
   surname: "Araújo"
   bio: "Djalma trabalha como Senior Lead UI na Woboinc.com, otimizando aplicações web e criando padrões para toda a equipe de Front-end. Além disso, é viciado em Javascript e sempre que possível contribui para algum projeto open-source, ou está criando algum maluco."
   thumbnailUrl: "DjalmaAraujo.jpg"
-  company: "Woboinc"
+  company: "Wobo Inc"
   title: "Senior Lead UI"
   rockstar: false
   social:
@@ -145,7 +145,7 @@
   surname: "Monteiro"
   bio: "Fundadora do Blog InspirAda na Computação, estagiária de Desenvolvimento Web na FUNDAJ e Bolsista na SBPC-PE. Graduanda em Licenciatura Plena em Computação na UFRPE e Co-coordenadora de Mídias Sociais da Python Brasil. Em 2014, participou da fundação do Women Who Code - Recife e do PyLadies Recife se tornando co-fundadora."
   thumbnailUrl: "LidianeSouza.jpg"
-  company: "Woman Who Code"
+  company: "Women Who Code"
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/Lidy_Monteiro"}
