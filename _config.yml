@@ -156,7 +156,7 @@ ticketsOffers:
   buyButtonText: "Compre agora!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-08-28T00:00"
-  validThrough: "2015-10-10T23:59"
+  validThrough: "2015-18-10T23:59"
 
 # Footer
 socialLinks:
