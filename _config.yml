@@ -157,17 +157,6 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-08-28T00:00"
   validThrough: "2015-10-10T23:59"
- -
-  name: "Late Bird"
-  price: "105"
-  disabled: true
-  priceCurrency: "R$"
-  ticketsNumber: "0"
-  buyButtonLink: "http://www.even.tc/gdg-devfest-nordeste-2015"
-  buyButtonText: "Compre agora!"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-10-10T00:00"
-  validThrough: "2015-10-17T05:59"
 
 # Footer
 socialLinks:
