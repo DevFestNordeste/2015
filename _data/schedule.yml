@@ -2,10 +2,10 @@
   date: "2015-10-17"
   dateReadable: "17 de Outubro"
   tracks:
-    - {title: "Android", color: "#339939"}
-    - {title: "Chrome & Cloud", color: "#D04730"}
-    - {title: "Alphabet", color: "#F0C000"}
-    - {title: "Expo by WTM", color: "#32BDA2"}
+    - {title: "Android - Associação/Nós Coworking", color: "#339939"}
+    - {title: "Chrome - CESAR.edu", color: "#D04730"}
+    - {title: "Alphabet - Centro de Artesanato", color: "#F0C000"}
+    - {title: "Expo by WTM - Portomídia", color: "#32BDA2"}
   timeslots:
     - {
     	startTime: "08:00",

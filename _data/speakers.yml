@@ -272,15 +272,10 @@
 
 -
   id: 24
-  name: "Mário"
-  surname: "Valney"
-  bio: "Desenvolvedor Front-End e Android. É ex-embaixador do Google no Google Student Ambassador Program, além de ser apaixonado por WordPress, pelas APIs do Google e por comida japonesa."
-  thumbnailUrl: "Mario.jpg"
+  name: "Rafael Roballo"
+  surname: "Wanderley"
+  thumbnailUrl: "Roballo.jpg"
   rockstar: false
-  social:
-  - {name: "facebook", link: "https://www.facebook.com/mariovalney"}
-  - {name: "github", link: "https://github.com/mariovalney"}
-  - {name: "linkedin", link: "https://www.linkedin.com/in/mariovalney"}
 
 -
   id: 25
