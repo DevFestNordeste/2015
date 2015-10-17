@@ -1,14 +1,13 @@
 -
   id: 1
-  name: "Alda"
-  surname: "Rocha"
-  company: "GDG São Paulo"
-  title: "Designer, front-end e Instrutora de UX"
+  name: "Maria Clara"
+  surname: "Santana"
+  company: "GDG Maceió"
+  title: "Graduanda em Engenharia de Computação pela UFAL, Front-end Dev na Clip e community manager do GDG e WTM Maceió"
   bio: ""
-  thumbnailUrl: "AldaRocha.jpg"
+  thumbnailUrl: "ClaraSantana.jpg"
   social:
-    - {name: "twitter", link: "https://twitter.com/mjcoffeeholick"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=108260306"}
+    - {name: "twitter", link: "https://twitter.com/olarclara"}
 -
   id: 2
   name: "Alê"

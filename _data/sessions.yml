@@ -76,8 +76,8 @@
   speakers: [9]
 -
   id: 208
-  title: "Lendas e mitos sobre Design e Layout responsivo"
-  description: "Não é Curupira, nem Unicórnio, nem magia e não vamos fazer amarração para trazer seu job aprovado em 3 dias! Vamos desmistificar lendas ou mitos sobre design e responsivo na prática!"
+  title: "Web Apps: ao infinito e além"
+  description: "Acompanhar as tendências de UX para desenvolver Web Apps de qualidade pode ser um processo um tanto quanto trabalhoso. Nessa talk, mostro como o Polymer, sua integração com o Firebase e o Polymer Starter Kit podem ser úteis para produção."
   subtype: presentation
   speakers: [1]
 -
@@ -164,13 +164,13 @@
   speakers: [23]
 -
   id: 502
-  title: "Começando no Android"
-  description: "Inicie no mundo do Desenvolvimento de Apps para Android! Vamos aprender um pouco sobre o Android Studio e falar de versionamento do Projeto, a diferença entre Activities e Fragments, além da pasta de Resources e da criação de Interfaces de Usuário."
+  title: "Internet das Coisas e os Jogos Pervasivos"
+  description: "Com a consolidação da Internet das Coisas nos ambientes corporativos e nas cidades, diversas empresas começam a explorar novas interfaces e interações com os dados expostos. Esta apresentação tem como objetivo apresentar o mercado de jogos digitais, e o surgimento de uma nova possibilidade: jogos pervasivos impulsionado pela Internet das Coisas."
   subtype: presentation
   speakers: [24]
 -
   id: 503
-  title: "Em Breve"
+  title: "DE ZERO A UNS - Da ideia aos primeiros clientes"
   subtype: presentation
   speakers: [25]
 
