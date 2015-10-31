@@ -1,38 +1,150 @@
 ---
-layout: default
-permalink: /
+  layout: default
+  permalink: /
 ---
 
- {% include hero.html %}
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js">
+</script>
+<style>
+  .background {
+    position: relative;
+    background: #0F4AA0;
+  }
 
- {% include statistic.html %}
+  .middle {
+    text-align: center;
+    z-index: 2;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
- {% include about.html %}
+  .middle h2,
+  .middle h3 {
+    margin: 0 auto;
+    padding: 0;
+  }
 
- {% comment %}
- {% include latest-news.html %}
- {% endcomment %}
+  .bg-event {
+    position: relative;
+    z-index: 1;
+    height: 25vw;
+    background-image: url('img/certificados/0.jpg');
+    background-position: center;
+    background-size: cover;
+    opacity: 0.25;
+  }
 
- {% include rockstar-speakers.html %}
+  .logo {
+    margin-bottom: 30px;
+  }
 
- {% include schedule.html %}
+  .faixa {
+    background-image: url('img/certificados/bg.png');
+    min-height: 231px;
+    padding: 25px 0 0;
+    background-position: center;
+    background-size: cover;
+    max-width: 1245px;
+    margin: 0 auto;
+  }
 
- {% include location-map.html %}
+  .certificados-form {
+    background: #5581B5;
+    width: 660px;
+    margin: 20px auto;
+    padding: 5px;
+    border-radius: 2px;
+  }
 
- {% include venue.html %}
+  .certificados-form .email {
+    width: 400px;
+    background: #98BEDC;
+    color: #122C50;
+    padding: 10px;
+    margin: 0;
+    border: 0;
+    font-size: 2.25em;
+    display: block;
+    float: left;
+  }
 
- {% include twitter-feed.html %}
+  ::-webkit-input-placeholder {
+   color: rgba(0,0,0,.35);
+}
 
- {% include tickets-2.html %}
+:-moz-placeholder { /* Firefox 18- */
+   color: rgba(0,0,0,.35);
+}
 
- {% include caravans.html %}
+::-moz-placeholder {  /* Firefox 19+ */
+   color: rgba(0,0,0,.35);
+}
 
- {% include partners.html %}
+:-ms-input-placeholder {
+   color: rgba(0,0,0,.35);
+}
 
- {% include partners-community.html %}
+  .certificados-form .submit {
+    width: 250px;
+    background: #18598D;
+    color: #fff;
+    padding: 10px 0;
+    margin: 0;
+    border: 0;
+    font-size: 2.25em;
+    display: block;
+    float: left;
+  }
+</style>
 
- {% comment %}
- {% include subscribe.html %}
+<script>
+  angular.module('gdgRecife', [])
+    .config(function($interpolateProvider) {
+      $interpolateProvider.startSymbol('{[{').endSymbol('}]}');
+    })
+    .controller('PhotosCtrl', ['$scope', function($scope) {
+      $scope.photos = shuffle([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]).slice(0, 8);
 
- {% include tickets.html %}
- {% endcomment %}
+      function shuffle(o) {
+        for (var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+        return o;
+      }
+    }])
+</script>
+<div class="background container-fluid" ng-app="gdgRecife" ng-controller="PhotosCtrl">
+  <div class="middle">
+    <img src="img/sprites/logo-ne.png" class="logo">
+    <div class="faixa">
+      <h2>Obrigado pela participação!</h2>
+      <h3>Aguardamos vocês em
+        <strong>2016</strong>!</h3>
+    </div>
+
+    <form accept-charset="UTF-8" action="http://certificado.eventick.com.br/generate" method="post" class="certificados-form">
+      <div style="display:none">
+        <input name="utf8" type="hidden" value="&#x2713;" />
+        <input name="authenticity_token" type="hidden" value="AUJ98GzDeFe6KWGER/n0ptk3QvTYNFWII0yMPdsTMPw=" />
+      </div>
+
+      <input id="slug" name="slug" type="hidden" value="LEs_Ajf5EIRh_1zFPxjNhw" />
+      <input class="email" id="email" placeholder="Digite seu email..." name="email" type="text" />
+      <input class="submit" name="commit" type="submit" value="Gerar Certificado" />
+      <div style="clear: both;"></div>
+    </form>
+
+    <p class="atividades"><strong>Contemplando:</strong> 10 horas de atividades</p>
+
+  </div>
+  <div ng-repeat="i in photos" ng-if="$index % 4 == 0" class="row">
+    <div class="col-md-3 bg-event" style="background-image: url('img/certificados/{[{photos[$index]}]}.jpg')"></div>
+    <div class="col-md-3 bg-event" style="background-image: url('img/certificados/{[{photos[$index + 1]}]}.jpg')"></div>
+    <div class="col-md-3 bg-event" style="background-image: url('img/certificados/{[{photos[$index + 2]}]}.jpg')"></div>
+    <div class="col-md-3 bg-event" style="background-image: url('img/certificados/{[{photos[$index + 3]}]}.jpg')"></div>
+  </div>
+</div>
