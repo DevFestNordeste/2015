@@ -1,6 +1,6 @@
 ---
   layout: default
-  permalink: /
+  permalink: /c
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js">
@@ -47,7 +47,7 @@
   .faixa {
     background-image: url('img/certificados/bg.png');
     min-height: 231px;
-    padding: 25px 0 0;
+    padding: 15px 0 0;
     background-position: center;
     background-size: cover;
     max-width: 1245px;
@@ -57,7 +57,7 @@
   .certificados-form {
     background: #5581B5;
     width: 660px;
-    margin: 20px auto;
+    margin: 0 auto 10px;
     padding: 5px;
     border-radius: 2px;
   }
@@ -129,16 +129,18 @@
     <form accept-charset="UTF-8" action="http://certificado.eventick.com.br/generate" method="post" class="certificados-form">
       <div style="display:none">
         <input name="utf8" type="hidden" value="&#x2713;" />
-        <input name="authenticity_token" type="hidden" value="AUJ98GzDeFe6KWGER/n0ptk3QvTYNFWII0yMPdsTMPw=" />
+        <input name="authenticity_token" type="hidden" value="cunlUvgkcQnupo3XIoMBe0YEefE1t9E9QBCuWzF9TJI=" />
+        <input id="slug" name="slug" type="hidden" value="MUFvh-ftib0f2tgiawX3Zg" />
       </div>
 
-      <input id="slug" name="slug" type="hidden" value="LEs_Ajf5EIRh_1zFPxjNhw" />
       <input class="email" id="email" placeholder="Digite seu email..." name="email" type="text" />
       <input class="submit" name="commit" type="submit" value="Gerar Certificado" />
       <div style="clear: both;"></div>
     </form>
 
     <p class="atividades"><strong>Contemplando:</strong> 10 horas de atividades</p>
+
+    <a href=" http://2015.devfestne.com.br/home" class="btn btn-primary waves-effect waves-button waves-light waves-float">Veja o que rolou!</a>
 
   </div>
   <div ng-repeat="i in photos" ng-if="$index % 4 == 0" class="row">
